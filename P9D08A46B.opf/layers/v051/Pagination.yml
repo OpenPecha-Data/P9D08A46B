@@ -1,0 +1,5964 @@
+id: 9ff3f27c0c8b4447b245c745e0b89052
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  453f78f9a87540dc8438097abd91d7fa:
+    span:
+      start: 0
+      end: 25
+    metadata:
+      pbId: 3011131
+      Img_name: 51-1-1a
+    page_info: null
+    imgnum: 1
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-1a.jpg
+  cb96505b3874466bbe42b97d791c86e5:
+    span:
+      start: 28
+      end: 754
+    metadata:
+      pbId: 3011132
+      Img_name: 51-1-1b
+    page_info: null
+    imgnum: 2
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-1b.jpg
+  e4ed07c5bfce421a804dacc1fce65987:
+    span:
+      start: 757
+      end: 2051
+    metadata:
+      pbId: 3011133
+      Img_name: 51-1-2a
+    page_info: null
+    imgnum: 3
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-2a.jpg
+  d716f4d0ae864ac389a05cd6d2cedfde:
+    span:
+      start: 2054
+      end: 3535
+    metadata:
+      pbId: 3011134
+      Img_name: 51-1-2b
+    page_info: null
+    imgnum: 4
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-2b.jpg
+  f52a79cc82f84449bce462743c52afdd:
+    span:
+      start: 3538
+      end: 5211
+    metadata:
+      pbId: 3011135
+      Img_name: 51-1-3a
+    page_info: null
+    imgnum: 5
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-3a.jpg
+  b11915accd114e3f828b301a720a0de6:
+    span:
+      start: 5214
+      end: 6779
+    metadata:
+      pbId: 3011136
+      Img_name: 51-1-3b
+    page_info: null
+    imgnum: 6
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-3b.jpg
+  38870344e833470fb0618434d2105d28:
+    span:
+      start: 6782
+      end: 8394
+    metadata:
+      pbId: 3011137
+      Img_name: 51-1-4a
+    page_info: null
+    imgnum: 7
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-4a.jpg
+  57e246d0b1de44a0a05bb1dfa3c47300:
+    span:
+      start: 8397
+      end: 9999
+    metadata:
+      pbId: 3011138
+      Img_name: 51-1-4b
+    page_info: null
+    imgnum: 8
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-4b.jpg
+  c40f115eaaf44cb880df8c1e7ec2f92b:
+    span:
+      start: 10002
+      end: 11583
+    metadata:
+      pbId: 3011139
+      Img_name: 51-1-5a
+    page_info: null
+    imgnum: 9
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-5a.jpg
+  3fde6c68727741009e007dfd2c791e3c:
+    span:
+      start: 11586
+      end: 13169
+    metadata:
+      pbId: 3011140
+      Img_name: 51-1-5b
+    page_info: null
+    imgnum: 10
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-5b.jpg
+  8b8aa69252b5436dbe5698aa9542f113:
+    span:
+      start: 13172
+      end: 14667
+    metadata:
+      pbId: 3011141
+      Img_name: 51-1-6a
+    page_info: null
+    imgnum: 11
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-6a.jpg
+  e0af1e529cb94e28a24e517eaaeb387e:
+    span:
+      start: 14670
+      end: 16135
+    metadata:
+      pbId: 3011142
+      Img_name: 51-1-6b
+    page_info: null
+    imgnum: 12
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-6b.jpg
+  6b022c182fbb4a69b1904d436aca997a:
+    span:
+      start: 16138
+      end: 17724
+    metadata:
+      pbId: 3011143
+      Img_name: 51-1-7a
+    page_info: null
+    imgnum: 13
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-7a.jpg
+  067157913ba84258a48231ea20621fbc:
+    span:
+      start: 17727
+      end: 19305
+    metadata:
+      pbId: 3011144
+      Img_name: 51-1-7b
+    page_info: null
+    imgnum: 14
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-7b.jpg
+  f3dfb787af924d36850a264b0ee57de0:
+    span:
+      start: 19308
+      end: 20860
+    metadata:
+      pbId: 3011145
+      Img_name: 51-1-8a
+    page_info: null
+    imgnum: 15
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-8a.jpg
+  7d37646340224ee5b3569857acfd3d8d:
+    span:
+      start: 20863
+      end: 22489
+    metadata:
+      pbId: 3011146
+      Img_name: 51-1-8b
+    page_info: null
+    imgnum: 16
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-8b.jpg
+  57d8115c0f9449959a4fb53ede1bf123:
+    span:
+      start: 22492
+      end: 24066
+    metadata:
+      pbId: 3011147
+      Img_name: 51-1-9a
+    page_info: null
+    imgnum: 17
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-9a.jpg
+  a5fd5e4cc6664addbe50c1c1dc4a184e:
+    span:
+      start: 24069
+      end: 25586
+    metadata:
+      pbId: 3011148
+      Img_name: 51-1-9b
+    page_info: null
+    imgnum: 18
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-9b.jpg
+  4dc161638a1442a7815c5a418c676558:
+    span:
+      start: 25589
+      end: 27138
+    metadata:
+      pbId: 3011149
+      Img_name: 51-1-10a
+    page_info: null
+    imgnum: 19
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-10a.jpg
+  9b26b669b7fe4fc0a66afd866a9d5fbb:
+    span:
+      start: 27141
+      end: 28730
+    metadata:
+      pbId: 3011150
+      Img_name: 51-1-10b
+    page_info: null
+    imgnum: 20
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-10b.jpg
+  c24e1c51be8f491bb4b48da17ab61eb7:
+    span:
+      start: 28733
+      end: 30266
+    metadata:
+      pbId: 3011151
+      Img_name: 51-1-11a
+    page_info: null
+    imgnum: 21
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-11a.jpg
+  cac935be6608492581bcda59c2ef5a05:
+    span:
+      start: 30269
+      end: 31850
+    metadata:
+      pbId: 3011152
+      Img_name: 51-1-11b
+    page_info: null
+    imgnum: 22
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-11b.jpg
+  8e9801da9a17447ea056f169732cf903:
+    span:
+      start: 31853
+      end: 33455
+    metadata:
+      pbId: 3011153
+      Img_name: 51-1-12a
+    page_info: null
+    imgnum: 23
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-12a.jpg
+  07bf05818e604c7b9fd1dc723cc81392:
+    span:
+      start: 33458
+      end: 34974
+    metadata:
+      pbId: 3011154
+      Img_name: 51-1-12b
+    page_info: null
+    imgnum: 24
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-12b.jpg
+  04e6ac03b05d460c8b4a70db562229e5:
+    span:
+      start: 34977
+      end: 36506
+    metadata:
+      pbId: 3011155
+      Img_name: 51-1-13a
+    page_info: null
+    imgnum: 25
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-13a.jpg
+  547a375906ad453a928db6b50d8e725c:
+    span:
+      start: 36509
+      end: 38046
+    metadata:
+      pbId: 3011156
+      Img_name: 51-1-13b
+    page_info: null
+    imgnum: 26
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-13b.jpg
+  584ea13758854d70979ede7f2cd02895:
+    span:
+      start: 38049
+      end: 39552
+    metadata:
+      pbId: 3011157
+      Img_name: 51-1-14a
+    page_info: null
+    imgnum: 27
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-14a.jpg
+  b908b5a6c72145a3b7b3093ae7eb29b3:
+    span:
+      start: 39555
+      end: 41027
+    metadata:
+      pbId: 3011158
+      Img_name: 51-1-14b
+    page_info: null
+    imgnum: 28
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-14b.jpg
+  57cac84a2b7445358580816b6ddf214f:
+    span:
+      start: 41030
+      end: 42534
+    metadata:
+      pbId: 3011159
+      Img_name: 51-1-15a
+    page_info: null
+    imgnum: 29
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-15a.jpg
+  9071abb86fd540d684c36249370191e1:
+    span:
+      start: 42537
+      end: 44033
+    metadata:
+      pbId: 3011160
+      Img_name: 51-1-15b
+    page_info: null
+    imgnum: 30
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-15b.jpg
+  e32ec4c473334e539bfc32cbaa5ed113:
+    span:
+      start: 44036
+      end: 45585
+    metadata:
+      pbId: 3011161
+      Img_name: 51-1-16a
+    page_info: null
+    imgnum: 31
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-16a.jpg
+  4e6f070744c8431bbbfd8d530e219cfb:
+    span:
+      start: 45588
+      end: 47180
+    metadata:
+      pbId: 3011162
+      Img_name: 51-1-16b
+    page_info: null
+    imgnum: 32
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-16b.jpg
+  ec3a64ec50a64abc869b48712dc845d3:
+    span:
+      start: 47183
+      end: 48727
+    metadata:
+      pbId: 3011163
+      Img_name: 51-1-17a
+    page_info: null
+    imgnum: 33
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-17a.jpg
+  f4253c9491e342b0805f9ef52247ce5a:
+    span:
+      start: 48730
+      end: 50249
+    metadata:
+      pbId: 3011164
+      Img_name: 51-1-17b
+    page_info: null
+    imgnum: 34
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-17b.jpg
+  2ace3e7e628c43ecab684f679f1ef4f8:
+    span:
+      start: 50252
+      end: 51733
+    metadata:
+      pbId: 3011165
+      Img_name: 51-1-18a
+    page_info: null
+    imgnum: 35
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-18a.jpg
+  4c61154e46554fe3be7230630d61df96:
+    span:
+      start: 51736
+      end: 53228
+    metadata:
+      pbId: 3011166
+      Img_name: 51-1-18b
+    page_info: null
+    imgnum: 36
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-18b.jpg
+  5b7843b2470841d1ab808f4e8af5879c:
+    span:
+      start: 53231
+      end: 54754
+    metadata:
+      pbId: 3011167
+      Img_name: 51-1-19a
+    page_info: null
+    imgnum: 37
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-19a.jpg
+  543a9ff232994db5937146f138b02148:
+    span:
+      start: 54757
+      end: 56311
+    metadata:
+      pbId: 3011168
+      Img_name: 51-1-19b
+    page_info: null
+    imgnum: 38
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-19b.jpg
+  3dc2bd4aa2ed4e5185cd985d70044f78:
+    span:
+      start: 56314
+      end: 57769
+    metadata:
+      pbId: 3011169
+      Img_name: 51-1-20a
+    page_info: null
+    imgnum: 39
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-20a.jpg
+  1681cb124b674e4db8ce173c51262136:
+    span:
+      start: 57772
+      end: 59287
+    metadata:
+      pbId: 3011170
+      Img_name: 51-1-20b
+    page_info: null
+    imgnum: 40
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-20b.jpg
+  e4dc99aa4385405e9c2a8e033c5b0789:
+    span:
+      start: 59290
+      end: 60736
+    metadata:
+      pbId: 3011171
+      Img_name: 51-1-21a
+    page_info: null
+    imgnum: 41
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-21a.jpg
+  6a5adc88ccd64bc7b394da1f7f880527:
+    span:
+      start: 60739
+      end: 62212
+    metadata:
+      pbId: 3011172
+      Img_name: 51-1-21b
+    page_info: null
+    imgnum: 42
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-21b.jpg
+  8779c9398f9b41d1bb046b9a46d7a51e:
+    span:
+      start: 62215
+      end: 63677
+    metadata:
+      pbId: 3011173
+      Img_name: 51-1-22a
+    page_info: null
+    imgnum: 43
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-22a.jpg
+  548486b310d34a5b9281275ce71181e3:
+    span:
+      start: 63680
+      end: 65167
+    metadata:
+      pbId: 3011174
+      Img_name: 51-1-22b
+    page_info: null
+    imgnum: 44
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-22b.jpg
+  ccbb0f5216594b9ca37f68dfed05cad1:
+    span:
+      start: 65170
+      end: 66678
+    metadata:
+      pbId: 3011175
+      Img_name: 51-1-23a
+    page_info: null
+    imgnum: 45
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-23a.jpg
+  363968bc97644ead823858607b7e6d01:
+    span:
+      start: 66681
+      end: 68208
+    metadata:
+      pbId: 3011176
+      Img_name: 51-1-23b
+    page_info: null
+    imgnum: 46
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-23b.jpg
+  469d7ae82d90477cb29ce804c7822857:
+    span:
+      start: 68211
+      end: 69678
+    metadata:
+      pbId: 3011177
+      Img_name: 51-1-24a
+    page_info: null
+    imgnum: 47
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-24a.jpg
+  aad38fad22ab4fb8896cd0419a6c26c8:
+    span:
+      start: 69681
+      end: 71245
+    metadata:
+      pbId: 3011178
+      Img_name: 51-1-24b
+    page_info: null
+    imgnum: 48
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-24b.jpg
+  c8ef964eeb844be2afe6f11c41748254:
+    span:
+      start: 71248
+      end: 72756
+    metadata:
+      pbId: 3011179
+      Img_name: 51-1-25a
+    page_info: null
+    imgnum: 49
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-25a.jpg
+  5e0655cf06ce416095f4431312debe5d:
+    span:
+      start: 72759
+      end: 74319
+    metadata:
+      pbId: 3011180
+      Img_name: 51-1-25b
+    page_info: null
+    imgnum: 50
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-25b.jpg
+  cf62b620ae4840aba9e97df7d531707f:
+    span:
+      start: 74322
+      end: 75932
+    metadata:
+      pbId: 3011181
+      Img_name: 51-1-26a
+    page_info: null
+    imgnum: 51
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-26a.jpg
+  ad145a0a0e284d2983f0a9228fb3b40d:
+    span:
+      start: 75935
+      end: 77601
+    metadata:
+      pbId: 3011182
+      Img_name: 51-1-26b
+    page_info: null
+    imgnum: 52
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-26b.jpg
+  d8559d2999cb44078a19246cfdd82cec:
+    span:
+      start: 77604
+      end: 79278
+    metadata:
+      pbId: 3011183
+      Img_name: 51-1-27a
+    page_info: null
+    imgnum: 53
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-27a.jpg
+  12dd7ca342404a0ba281c812a8984184:
+    span:
+      start: 79281
+      end: 80972
+    metadata:
+      pbId: 3011184
+      Img_name: 51-1-27b
+    page_info: null
+    imgnum: 54
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-27b.jpg
+  6c187c63862b4c3188e1e2aca7eb0e38:
+    span:
+      start: 80975
+      end: 82601
+    metadata:
+      pbId: 3011185
+      Img_name: 51-1-28a
+    page_info: null
+    imgnum: 55
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-28a.jpg
+  20f550e5d6ad49fd92b8bbe48229d8e5:
+    span:
+      start: 82604
+      end: 84214
+    metadata:
+      pbId: 3011186
+      Img_name: 51-1-28b
+    page_info: null
+    imgnum: 56
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-28b.jpg
+  473536bedda347899537ba58cb6b6115:
+    span:
+      start: 84217
+      end: 85837
+    metadata:
+      pbId: 3011187
+      Img_name: 51-1-29a
+    page_info: null
+    imgnum: 57
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-29a.jpg
+  04261ee6d72c4625ba9e86dbdebc8ea8:
+    span:
+      start: 85840
+      end: 87538
+    metadata:
+      pbId: 3011188
+      Img_name: 51-1-29b
+    page_info: null
+    imgnum: 58
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-29b.jpg
+  3e3d93e5bc964dfba3aeb352346ef8e6:
+    span:
+      start: 87541
+      end: 89239
+    metadata:
+      pbId: 3011189
+      Img_name: 51-1-30a
+    page_info: null
+    imgnum: 59
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-30a.jpg
+  99ee6206b3ac41878742cd744d7952f6:
+    span:
+      start: 89242
+      end: 90939
+    metadata:
+      pbId: 3011190
+      Img_name: 51-1-30b
+    page_info: null
+    imgnum: 60
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-30b.jpg
+  a6adc0159a8f4250a54da1d95af1c00f:
+    span:
+      start: 90942
+      end: 92472
+    metadata:
+      pbId: 3011191
+      Img_name: 51-1-31a
+    page_info: null
+    imgnum: 61
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-31a.jpg
+  d2b3b55c4a644e299d44a8b82df2909f:
+    span:
+      start: 92475
+      end: 94111
+    metadata:
+      pbId: 3011192
+      Img_name: 51-1-31b
+    page_info: null
+    imgnum: 62
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-31b.jpg
+  1810b7cba5ab4b4bbaa6830d5ba46b05:
+    span:
+      start: 94114
+      end: 95602
+    metadata:
+      pbId: 3011193
+      Img_name: 51-1-32a
+    page_info: null
+    imgnum: 63
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-32a.jpg
+  b21426073ead48ce97b3df4730e7aaa7:
+    span:
+      start: 95605
+      end: 97106
+    metadata:
+      pbId: 3011194
+      Img_name: 51-1-32b
+    page_info: null
+    imgnum: 64
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-32b.jpg
+  0879ab038dee40d9ac0e4dc24f898160:
+    span:
+      start: 97109
+      end: 98583
+    metadata:
+      pbId: 3011195
+      Img_name: 51-1-33a
+    page_info: null
+    imgnum: 65
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-33a.jpg
+  f7f92e3da20b4e65b81cf08baf08b4c1:
+    span:
+      start: 98586
+      end: 100079
+    metadata:
+      pbId: 3011196
+      Img_name: 51-1-33b
+    page_info: null
+    imgnum: 66
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-33b.jpg
+  6e912edb9081478c87a42732e7183601:
+    span:
+      start: 100082
+      end: 101574
+    metadata:
+      pbId: 3011197
+      Img_name: 51-1-34a
+    page_info: null
+    imgnum: 67
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-34a.jpg
+  29de5b1a1d2140e9b4849d25be262313:
+    span:
+      start: 101577
+      end: 103093
+    metadata:
+      pbId: 3011198
+      Img_name: 51-1-34b
+    page_info: null
+    imgnum: 68
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-34b.jpg
+  ecef9e2d9b694fad8c1b6f4bb94c5719:
+    span:
+      start: 103096
+      end: 104630
+    metadata:
+      pbId: 3011199
+      Img_name: 51-1-35a
+    page_info: null
+    imgnum: 69
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-35a.jpg
+  3fd2bf907d3a44b1a65557cda9816c89:
+    span:
+      start: 104633
+      end: 106129
+    metadata:
+      pbId: 3011200
+      Img_name: 51-1-35b
+    page_info: null
+    imgnum: 70
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-35b.jpg
+  c8a4b507ea2144fc90c0a5892f0f6128:
+    span:
+      start: 106132
+      end: 107574
+    metadata:
+      pbId: 3011201
+      Img_name: 51-1-36a
+    page_info: null
+    imgnum: 71
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-36a.jpg
+  7a13d8be0301450ba4b7d804a6049869:
+    span:
+      start: 107577
+      end: 109031
+    metadata:
+      pbId: 3011202
+      Img_name: 51-1-36b
+    page_info: null
+    imgnum: 72
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-36b.jpg
+  0d29b9f7b4714b098f49674f417e33fd:
+    span:
+      start: 109034
+      end: 110542
+    metadata:
+      pbId: 3011203
+      Img_name: 51-1-37a
+    page_info: null
+    imgnum: 73
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-37a.jpg
+  72108ca8c8c74bbbbc49a4f7b65093e4:
+    span:
+      start: 110545
+      end: 112073
+    metadata:
+      pbId: 3011204
+      Img_name: 51-1-37b
+    page_info: null
+    imgnum: 74
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-37b.jpg
+  e94599874c6c42c18f23fb5fd9174336:
+    span:
+      start: 112076
+      end: 113604
+    metadata:
+      pbId: 3011205
+      Img_name: 51-1-38a
+    page_info: null
+    imgnum: 75
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-38a.jpg
+  dae3ec7e129d48dbac703289785a48e7:
+    span:
+      start: 113607
+      end: 115175
+    metadata:
+      pbId: 3011206
+      Img_name: 51-1-38b
+    page_info: null
+    imgnum: 76
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-38b.jpg
+  d7c6ff65a24a4cd5aaacaef14266de69:
+    span:
+      start: 115178
+      end: 116721
+    metadata:
+      pbId: 3011207
+      Img_name: 51-1-39a
+    page_info: null
+    imgnum: 77
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-39a.jpg
+  b4e496e2651046db9b7a8b82f4ea6260:
+    span:
+      start: 116724
+      end: 118271
+    metadata:
+      pbId: 3011208
+      Img_name: 51-1-39b
+    page_info: null
+    imgnum: 78
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-39b.jpg
+  0be346266bed4c6bb7a0a50a5c367ed8:
+    span:
+      start: 118274
+      end: 119777
+    metadata:
+      pbId: 3011209
+      Img_name: 51-1-40a
+    page_info: null
+    imgnum: 79
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-40a.jpg
+  2dad986444c24ec492108c98f2687513:
+    span:
+      start: 119780
+      end: 121370
+    metadata:
+      pbId: 3011210
+      Img_name: 51-1-40b
+    page_info: null
+    imgnum: 80
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-40b.jpg
+  0a9e77e2d7bb48ea922d8c19c13bacf3:
+    span:
+      start: 121373
+      end: 122950
+    metadata:
+      pbId: 3011211
+      Img_name: 51-1-41a
+    page_info: null
+    imgnum: 81
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-41a.jpg
+  ab7d7d7158514738aacbcc4bfa6752f3:
+    span:
+      start: 122953
+      end: 124550
+    metadata:
+      pbId: 3011212
+      Img_name: 51-1-41b
+    page_info: null
+    imgnum: 82
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-41b.jpg
+  811b3ea55a1946bda936d3c51aabcef6:
+    span:
+      start: 124553
+      end: 126137
+    metadata:
+      pbId: 3011213
+      Img_name: 51-1-42a
+    page_info: null
+    imgnum: 83
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-42a.jpg
+  6c6a14376b4e4ed2874af354b36692f7:
+    span:
+      start: 126140
+      end: 127735
+    metadata:
+      pbId: 3011214
+      Img_name: 51-1-42b
+    page_info: null
+    imgnum: 84
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-42b.jpg
+  40e89879009d4a52be315474daa5fbd9:
+    span:
+      start: 127738
+      end: 129193
+    metadata:
+      pbId: 3011215
+      Img_name: 51-1-43a
+    page_info: null
+    imgnum: 85
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-43a.jpg
+  168cce72094e47ba86265d05edf7d213:
+    span:
+      start: 129196
+      end: 130697
+    metadata:
+      pbId: 3011216
+      Img_name: 51-1-43b
+    page_info: null
+    imgnum: 86
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-43b.jpg
+  275ffa670fcc49e1984e7fa2aefed880:
+    span:
+      start: 130700
+      end: 132272
+    metadata:
+      pbId: 3011217
+      Img_name: 51-1-44a
+    page_info: null
+    imgnum: 87
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-44a.jpg
+  a05277020468497d9825808aeb271585:
+    span:
+      start: 132275
+      end: 133814
+    metadata:
+      pbId: 3011218
+      Img_name: 51-1-44b
+    page_info: null
+    imgnum: 88
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-44b.jpg
+  8283cc5fca8f43d4bb797e6dc1c4d910:
+    span:
+      start: 133817
+      end: 135320
+    metadata:
+      pbId: 3011219
+      Img_name: 51-1-45a
+    page_info: null
+    imgnum: 89
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-45a.jpg
+  f305baaa51984382bc72a2695c160427:
+    span:
+      start: 135323
+      end: 136785
+    metadata:
+      pbId: 3011220
+      Img_name: 51-1-45b
+    page_info: null
+    imgnum: 90
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-45b.jpg
+  dee01b27737b4f509ef412914d6c31b5:
+    span:
+      start: 136788
+      end: 138222
+    metadata:
+      pbId: 3011221
+      Img_name: 51-1-46a
+    page_info: null
+    imgnum: 91
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-46a.jpg
+  c357b7b2250243b19608b04cdf35231e:
+    span:
+      start: 138225
+      end: 139723
+    metadata:
+      pbId: 3011222
+      Img_name: 51-1-46b
+    page_info: null
+    imgnum: 92
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-46b.jpg
+  a2213f7b09f642ffa6e7bf20ead5f908:
+    span:
+      start: 139726
+      end: 141270
+    metadata:
+      pbId: 3011223
+      Img_name: 51-1-47a
+    page_info: null
+    imgnum: 93
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-47a.jpg
+  8444cc6dd54a47de9582744f95e2a9d0:
+    span:
+      start: 141273
+      end: 142832
+    metadata:
+      pbId: 3011224
+      Img_name: 51-1-47b
+    page_info: null
+    imgnum: 94
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-47b.jpg
+  62859c4872ea4a10b0177b0934fd22e8:
+    span:
+      start: 142835
+      end: 144356
+    metadata:
+      pbId: 3011225
+      Img_name: 51-1-48a
+    page_info: null
+    imgnum: 95
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-48a.jpg
+  9730e08a0a614bc9be04c525f10851e4:
+    span:
+      start: 144359
+      end: 145841
+    metadata:
+      pbId: 3011226
+      Img_name: 51-1-48b
+    page_info: null
+    imgnum: 96
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-48b.jpg
+  903631bcc50742569c207854c8bdbf0a:
+    span:
+      start: 145844
+      end: 147330
+    metadata:
+      pbId: 3011227
+      Img_name: 51-1-49a
+    page_info: null
+    imgnum: 97
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-49a.jpg
+  9abda1c80a5242b4a13d77093036ceb1:
+    span:
+      start: 147333
+      end: 148835
+    metadata:
+      pbId: 3011228
+      Img_name: 51-1-49b
+    page_info: null
+    imgnum: 98
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-49b.jpg
+  1e82ba0168514464b146a23468cb354d:
+    span:
+      start: 148838
+      end: 150272
+    metadata:
+      pbId: 3011229
+      Img_name: 51-1-50a
+    page_info: null
+    imgnum: 99
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-50a.jpg
+  321e58584e224595a18a8a9c46424497:
+    span:
+      start: 150275
+      end: 151746
+    metadata:
+      pbId: 3011230
+      Img_name: 51-1-50b
+    page_info: null
+    imgnum: 100
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-50b.jpg
+  9871db3de1c44fe89b4cb7cbcd87346e:
+    span:
+      start: 151749
+      end: 153212
+    metadata:
+      pbId: 3011231
+      Img_name: 51-1-51a
+    page_info: null
+    imgnum: 101
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-51a.jpg
+  924df5b2493a4db39ecfdb5bbd63a412:
+    span:
+      start: 153215
+      end: 154843
+    metadata:
+      pbId: 3011232
+      Img_name: 51-1-51b
+    page_info: null
+    imgnum: 102
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-51b.jpg
+  e980c005cafb486bb1b120e903d03045:
+    span:
+      start: 154846
+      end: 156416
+    metadata:
+      pbId: 3011233
+      Img_name: 51-1-52a
+    page_info: null
+    imgnum: 103
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-52a.jpg
+  ba126435b65a44aeb0a4e86c466753c9:
+    span:
+      start: 156419
+      end: 157927
+    metadata:
+      pbId: 3011234
+      Img_name: 51-1-52b
+    page_info: null
+    imgnum: 104
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-52b.jpg
+  875ac0f7db8843e880465f1930786b23:
+    span:
+      start: 157930
+      end: 159419
+    metadata:
+      pbId: 3011235
+      Img_name: 51-1-53a
+    page_info: null
+    imgnum: 105
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-53a.jpg
+  f9691fd9f69f48ca9e5cb0d1ff707bb0:
+    span:
+      start: 159422
+      end: 160898
+    metadata:
+      pbId: 3011236
+      Img_name: 51-1-53b
+    page_info: null
+    imgnum: 106
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-53b.jpg
+  da47acf65ab44e43a55c00904700083a:
+    span:
+      start: 160901
+      end: 162370
+    metadata:
+      pbId: 3011237
+      Img_name: 51-1-54a
+    page_info: null
+    imgnum: 107
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-54a.jpg
+  72ed461323fa4d8383a8605b9bb782ed:
+    span:
+      start: 162373
+      end: 163851
+    metadata:
+      pbId: 3011238
+      Img_name: 51-1-54b
+    page_info: null
+    imgnum: 108
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-54b.jpg
+  3ab8b61b16444678a49618c563f1d580:
+    span:
+      start: 163854
+      end: 165386
+    metadata:
+      pbId: 3011239
+      Img_name: 51-1-55a
+    page_info: null
+    imgnum: 109
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-55a.jpg
+  70073eebe87b4f3ca7b7a01ed83d75ee:
+    span:
+      start: 165389
+      end: 166889
+    metadata:
+      pbId: 3011240
+      Img_name: 51-1-55b
+    page_info: null
+    imgnum: 110
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-55b.jpg
+  f9e7219bde824770be3d55cc78eec664:
+    span:
+      start: 166892
+      end: 168371
+    metadata:
+      pbId: 3011241
+      Img_name: 51-1-56a
+    page_info: null
+    imgnum: 111
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-56a.jpg
+  87e8a6b6586342e192a0748226832ce6:
+    span:
+      start: 168374
+      end: 169928
+    metadata:
+      pbId: 3011242
+      Img_name: 51-1-56b
+    page_info: null
+    imgnum: 112
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-56b.jpg
+  ee165d43c26942ac95af25ce2b299bb8:
+    span:
+      start: 169931
+      end: 171490
+    metadata:
+      pbId: 3011243
+      Img_name: 51-1-57a
+    page_info: null
+    imgnum: 113
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-57a.jpg
+  2dcacb148bbf4f3c95c8c29c6b263c85:
+    span:
+      start: 171493
+      end: 173056
+    metadata:
+      pbId: 3011244
+      Img_name: 51-1-57b
+    page_info: null
+    imgnum: 114
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-57b.jpg
+  a64b11e8f668477d850f96144ef2e21f:
+    span:
+      start: 173059
+      end: 174574
+    metadata:
+      pbId: 3011245
+      Img_name: 51-1-58a
+    page_info: null
+    imgnum: 115
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-58a.jpg
+  c53ec9b41c6c4250bce1b5b0ed9e49b0:
+    span:
+      start: 174577
+      end: 176093
+    metadata:
+      pbId: 3011246
+      Img_name: 51-1-58b
+    page_info: null
+    imgnum: 116
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-58b.jpg
+  88bdc9dc24cd4843bb64f5405c4bd362:
+    span:
+      start: 176096
+      end: 177605
+    metadata:
+      pbId: 3011247
+      Img_name: 51-1-59a
+    page_info: null
+    imgnum: 117
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-59a.jpg
+  e3d2e1969b704f6c8d3bbf345c015105:
+    span:
+      start: 177608
+      end: 179113
+    metadata:
+      pbId: 3011248
+      Img_name: 51-1-59b
+    page_info: null
+    imgnum: 118
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-59b.jpg
+  ee8b28ae4b534d3eb8f1f8e941272c15:
+    span:
+      start: 179116
+      end: 180681
+    metadata:
+      pbId: 3011249
+      Img_name: 51-1-60a
+    page_info: null
+    imgnum: 119
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-60a.jpg
+  d223f10252664008a38fb22983ba3a55:
+    span:
+      start: 180684
+      end: 182237
+    metadata:
+      pbId: 3011250
+      Img_name: 51-1-60b
+    page_info: null
+    imgnum: 120
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-60b.jpg
+  f701a89cedac4da3b3496bea0d0e67df:
+    span:
+      start: 182240
+      end: 183698
+    metadata:
+      pbId: 3011251
+      Img_name: 51-1-61a
+    page_info: null
+    imgnum: 121
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-61a.jpg
+  bf9975565fa1456eb5a4af5438e24026:
+    span:
+      start: 183701
+      end: 185185
+    metadata:
+      pbId: 3011252
+      Img_name: 51-1-61b
+    page_info: null
+    imgnum: 122
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-61b.jpg
+  1e4779eec934464782b1c89c5f29c00e:
+    span:
+      start: 185188
+      end: 186717
+    metadata:
+      pbId: 3011253
+      Img_name: 51-1-62a
+    page_info: null
+    imgnum: 123
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-62a.jpg
+  9119576aaef8442eb3969b39c5d880a9:
+    span:
+      start: 186720
+      end: 188232
+    metadata:
+      pbId: 3011254
+      Img_name: 51-1-62b
+    page_info: null
+    imgnum: 124
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-62b.jpg
+  9eebc17ca29b46d49d80d0a940b743d9:
+    span:
+      start: 188235
+      end: 189667
+    metadata:
+      pbId: 3011255
+      Img_name: 51-1-63a
+    page_info: null
+    imgnum: 125
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-63a.jpg
+  2b663ede7f4143bc8dd055d901c7cb43:
+    span:
+      start: 189670
+      end: 191172
+    metadata:
+      pbId: 3011256
+      Img_name: 51-1-63b
+    page_info: null
+    imgnum: 126
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-63b.jpg
+  15bf2ba00cbf466fb624f388d77852a6:
+    span:
+      start: 191175
+      end: 192679
+    metadata:
+      pbId: 3011257
+      Img_name: 51-1-64a
+    page_info: null
+    imgnum: 127
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-64a.jpg
+  d1ef65643bd94f518c28cd3ca9759c98:
+    span:
+      start: 192682
+      end: 194146
+    metadata:
+      pbId: 3011258
+      Img_name: 51-1-64b
+    page_info: null
+    imgnum: 128
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-64b.jpg
+  feccad5035bc4053a14b5451192c282a:
+    span:
+      start: 194149
+      end: 195663
+    metadata:
+      pbId: 3011259
+      Img_name: 51-1-65a
+    page_info: null
+    imgnum: 129
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-65a.jpg
+  d89646acdcde47e6b8412e45622d9fcb:
+    span:
+      start: 195666
+      end: 197342
+    metadata:
+      pbId: 3011260
+      Img_name: 51-1-65b
+    page_info: null
+    imgnum: 130
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-65b.jpg
+  393341d3ed9548888fa69a56d5376322:
+    span:
+      start: 197345
+      end: 198960
+    metadata:
+      pbId: 3011261
+      Img_name: 51-1-66a
+    page_info: null
+    imgnum: 131
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-66a.jpg
+  ba8eaf74cf7f42a389ea653acf19175c:
+    span:
+      start: 198963
+      end: 200658
+    metadata:
+      pbId: 3011262
+      Img_name: 51-1-66b
+    page_info: null
+    imgnum: 132
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-66b.jpg
+  d26c85fd187e4e1e907aa12af7bf542c:
+    span:
+      start: 200661
+      end: 202287
+    metadata:
+      pbId: 3011263
+      Img_name: 51-1-67a
+    page_info: null
+    imgnum: 133
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-67a.jpg
+  6fa1e10958cf4daa9c1538c5fa41b7a9:
+    span:
+      start: 202290
+      end: 203868
+    metadata:
+      pbId: 3011264
+      Img_name: 51-1-67b
+    page_info: null
+    imgnum: 134
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-67b.jpg
+  055a90e702834350bf11d353e95e1363:
+    span:
+      start: 203871
+      end: 205492
+    metadata:
+      pbId: 3011265
+      Img_name: 51-1-68a
+    page_info: null
+    imgnum: 135
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-68a.jpg
+  c0ffebff869243b58e93c6ff0c38b1b0:
+    span:
+      start: 205495
+      end: 207089
+    metadata:
+      pbId: 3011266
+      Img_name: 51-1-68b
+    page_info: null
+    imgnum: 136
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-68b.jpg
+  216b5d87865f464080e1905e7daede37:
+    span:
+      start: 207092
+      end: 208713
+    metadata:
+      pbId: 3011267
+      Img_name: 51-1-69a
+    page_info: null
+    imgnum: 137
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-69a.jpg
+  cd619e9a540f4c26b066ff1863d9269c:
+    span:
+      start: 208716
+      end: 210376
+    metadata:
+      pbId: 3011268
+      Img_name: 51-1-69b
+    page_info: null
+    imgnum: 138
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-69b.jpg
+  9e6a608bb12c488a8ca6d0fb7cd7aa8f:
+    span:
+      start: 210379
+      end: 211978
+    metadata:
+      pbId: 3011269
+      Img_name: 51-1-70a
+    page_info: null
+    imgnum: 139
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-70a.jpg
+  e33fcc97680749a6b4ef52f99f6061e3:
+    span:
+      start: 211981
+      end: 213620
+    metadata:
+      pbId: 3011270
+      Img_name: 51-1-70b
+    page_info: null
+    imgnum: 140
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-70b.jpg
+  eb53a9fdd2924c9b921c86422a1d3f92:
+    span:
+      start: 213623
+      end: 215207
+    metadata:
+      pbId: 3011271
+      Img_name: 51-1-71a
+    page_info: null
+    imgnum: 141
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-71a.jpg
+  5a7aa696e4574f17aba772d0d0a2e202:
+    span:
+      start: 215210
+      end: 216784
+    metadata:
+      pbId: 3011272
+      Img_name: 51-1-71b
+    page_info: null
+    imgnum: 142
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-71b.jpg
+  9cabd4793e274ecdb553b8347fa7db93:
+    span:
+      start: 216787
+      end: 218411
+    metadata:
+      pbId: 3011273
+      Img_name: 51-1-72a
+    page_info: null
+    imgnum: 143
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-72a.jpg
+  1fd970581ad94917b48d4c7c2d5a7a4d:
+    span:
+      start: 218414
+      end: 220040
+    metadata:
+      pbId: 3011274
+      Img_name: 51-1-72b
+    page_info: null
+    imgnum: 144
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-72b.jpg
+  8e146ec0c2d04ea2b29048f0d0698db7:
+    span:
+      start: 220043
+      end: 221624
+    metadata:
+      pbId: 3011275
+      Img_name: 51-1-73a
+    page_info: null
+    imgnum: 145
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-73a.jpg
+  f9c2b938afab4f64a6aa6f350589a5d5:
+    span:
+      start: 221627
+      end: 223165
+    metadata:
+      pbId: 3011276
+      Img_name: 51-1-73b
+    page_info: null
+    imgnum: 146
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-73b.jpg
+  326b859a4ed44fa3af7b673080b13115:
+    span:
+      start: 223168
+      end: 224699
+    metadata:
+      pbId: 3011277
+      Img_name: 51-1-74a
+    page_info: null
+    imgnum: 147
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-74a.jpg
+  8df6dcc793c244c6a838d023e961626e:
+    span:
+      start: 224702
+      end: 226295
+    metadata:
+      pbId: 3011278
+      Img_name: 51-1-74b
+    page_info: null
+    imgnum: 148
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-74b.jpg
+  9fe5502d63894152833a48a45f9d0d2b:
+    span:
+      start: 226298
+      end: 227873
+    metadata:
+      pbId: 3011279
+      Img_name: 51-1-75a
+    page_info: null
+    imgnum: 149
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-75a.jpg
+  e9be8dc0ce9b404faadf5cc3f6300bd0:
+    span:
+      start: 227876
+      end: 229506
+    metadata:
+      pbId: 3011280
+      Img_name: 51-1-75b
+    page_info: null
+    imgnum: 150
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-75b.jpg
+  d904f9afd47a4d6ba93f07b97ea5c793:
+    span:
+      start: 229509
+      end: 231151
+    metadata:
+      pbId: 3011281
+      Img_name: 51-1-76a
+    page_info: null
+    imgnum: 151
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-76a.jpg
+  a3ddc47033b1422d8d66bd31d6f77ae5:
+    span:
+      start: 231154
+      end: 232860
+    metadata:
+      pbId: 3011282
+      Img_name: 51-1-76b
+    page_info: null
+    imgnum: 152
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-76b.jpg
+  8022216b93354ec5896cdf32b36b1e40:
+    span:
+      start: 232863
+      end: 234418
+    metadata:
+      pbId: 3011283
+      Img_name: 51-1-77a
+    page_info: null
+    imgnum: 153
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-77a.jpg
+  bdcda46f95324ab088664d2b2b6c8a81:
+    span:
+      start: 234421
+      end: 236012
+    metadata:
+      pbId: 3011284
+      Img_name: 51-1-77b
+    page_info: null
+    imgnum: 154
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-77b.jpg
+  33d114cf12a74c30a181612d29991a10:
+    span:
+      start: 236015
+      end: 237618
+    metadata:
+      pbId: 3011285
+      Img_name: 51-1-78a
+    page_info: null
+    imgnum: 155
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-78a.jpg
+  f0e45be289194fa7ba1b9e47d51b46c2:
+    span:
+      start: 237621
+      end: 239200
+    metadata:
+      pbId: 3011286
+      Img_name: 51-1-78b
+    page_info: null
+    imgnum: 156
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-78b.jpg
+  224c879c6d56404fbc94ad2e46c3d57b:
+    span:
+      start: 239203
+      end: 240729
+    metadata:
+      pbId: 3011287
+      Img_name: 51-1-79a
+    page_info: null
+    imgnum: 157
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-79a.jpg
+  27119d6b946e4eeaa93efb8a18d1a544:
+    span:
+      start: 240732
+      end: 242363
+    metadata:
+      pbId: 3011288
+      Img_name: 51-1-79b
+    page_info: null
+    imgnum: 158
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-79b.jpg
+  c94fcbbfec9f4bedbbfcb0307ad69ee2:
+    span:
+      start: 242366
+      end: 243913
+    metadata:
+      pbId: 3011289
+      Img_name: 51-1-80a
+    page_info: null
+    imgnum: 159
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-80a.jpg
+  26ecb0f1110d4adaa3482dbb1e371a06:
+    span:
+      start: 243916
+      end: 245470
+    metadata:
+      pbId: 3011290
+      Img_name: 51-1-80b
+    page_info: null
+    imgnum: 160
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-80b.jpg
+  116f8055b13d4b7fb6cbae14d444b81b:
+    span:
+      start: 245473
+      end: 247086
+    metadata:
+      pbId: 3011291
+      Img_name: 51-1-81a
+    page_info: null
+    imgnum: 161
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-81a.jpg
+  2983136adb634cafb9954b6a2efdbf1c:
+    span:
+      start: 247089
+      end: 248702
+    metadata:
+      pbId: 3011292
+      Img_name: 51-1-81b
+    page_info: null
+    imgnum: 162
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-81b.jpg
+  3223c0e37caf4c0bb812d46454e5744c:
+    span:
+      start: 248705
+      end: 250301
+    metadata:
+      pbId: 3011293
+      Img_name: 51-1-82a
+    page_info: null
+    imgnum: 163
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-82a.jpg
+  fcdb156cee9b4d4a8b965786ba621f3f:
+    span:
+      start: 250304
+      end: 251906
+    metadata:
+      pbId: 3011294
+      Img_name: 51-1-82b
+    page_info: null
+    imgnum: 164
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-82b.jpg
+  0e5864ab786942a4b43694d6fe15f079:
+    span:
+      start: 251909
+      end: 253393
+    metadata:
+      pbId: 3011295
+      Img_name: 51-1-83a
+    page_info: null
+    imgnum: 165
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-83a.jpg
+  b1b230f668794860ad619bc46292aad0:
+    span:
+      start: 253396
+      end: 254902
+    metadata:
+      pbId: 3011296
+      Img_name: 51-1-83b
+    page_info: null
+    imgnum: 166
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-83b.jpg
+  b4a8158f3a654fbdb2a970d790d4d6b9:
+    span:
+      start: 254905
+      end: 256445
+    metadata:
+      pbId: 3011297
+      Img_name: 51-1-84a
+    page_info: null
+    imgnum: 167
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-84a.jpg
+  f7a6e61a45bd42e99c98b7b39f787244:
+    span:
+      start: 256448
+      end: 258028
+    metadata:
+      pbId: 3011298
+      Img_name: 51-1-84b
+    page_info: null
+    imgnum: 168
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-84b.jpg
+  a0cc8c1447374c16b4618fc040c803a7:
+    span:
+      start: 258031
+      end: 259601
+    metadata:
+      pbId: 3011299
+      Img_name: 51-1-85a
+    page_info: null
+    imgnum: 169
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-85a.jpg
+  597e944571104207b9c5b319dd9c1822:
+    span:
+      start: 259604
+      end: 261193
+    metadata:
+      pbId: 3011300
+      Img_name: 51-1-85b
+    page_info: null
+    imgnum: 170
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-85b.jpg
+  29c55ae4ec1649299a4b4f4f1b08d088:
+    span:
+      start: 261196
+      end: 262746
+    metadata:
+      pbId: 3011301
+      Img_name: 51-1-86a
+    page_info: null
+    imgnum: 171
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-86a.jpg
+  be2af4e90c974000bb05e0d97458527c:
+    span:
+      start: 262749
+      end: 264337
+    metadata:
+      pbId: 3011302
+      Img_name: 51-1-86b
+    page_info: null
+    imgnum: 172
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-86b.jpg
+  7378cecebb6b4007ae7285e38d8d1fe3:
+    span:
+      start: 264340
+      end: 265965
+    metadata:
+      pbId: 3011303
+      Img_name: 51-1-87a
+    page_info: null
+    imgnum: 173
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-87a.jpg
+  c033fa61d3db49ecbdb63ef015c5a43b:
+    span:
+      start: 265968
+      end: 267544
+    metadata:
+      pbId: 3011304
+      Img_name: 51-1-87b
+    page_info: null
+    imgnum: 174
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-87b.jpg
+  4fc931bc51eb4a3382ee01d084c96064:
+    span:
+      start: 267547
+      end: 269090
+    metadata:
+      pbId: 3011305
+      Img_name: 51-1-88a
+    page_info: null
+    imgnum: 175
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-88a.jpg
+  b941b202fe624839b4ef5031141f39fb:
+    span:
+      start: 269093
+      end: 270653
+    metadata:
+      pbId: 3011306
+      Img_name: 51-1-88b
+    page_info: null
+    imgnum: 176
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-88b.jpg
+  5d0003ac24f34fe894ce29be29e14911:
+    span:
+      start: 270656
+      end: 272223
+    metadata:
+      pbId: 3011307
+      Img_name: 51-1-89a
+    page_info: null
+    imgnum: 177
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-89a.jpg
+  0bf56ea9220946c7bd2bfe044b425ddc:
+    span:
+      start: 272226
+      end: 273799
+    metadata:
+      pbId: 3011308
+      Img_name: 51-1-89b
+    page_info: null
+    imgnum: 178
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-89b.jpg
+  f005ff2e7d3f41b3b39c4058e5c409e1:
+    span:
+      start: 273802
+      end: 275360
+    metadata:
+      pbId: 3011309
+      Img_name: 51-1-90a
+    page_info: null
+    imgnum: 179
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-90a.jpg
+  ecd80b2909aa40398448f56bed16af41:
+    span:
+      start: 275363
+      end: 276935
+    metadata:
+      pbId: 3011310
+      Img_name: 51-1-90b
+    page_info: null
+    imgnum: 180
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-90b.jpg
+  6d2512ed87ba4ae6aec7f2f463aa6f64:
+    span:
+      start: 276938
+      end: 278546
+    metadata:
+      pbId: 3011311
+      Img_name: 51-1-91a
+    page_info: null
+    imgnum: 181
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-91a.jpg
+  d0415f6245ab4f2e95926c27b498e42a:
+    span:
+      start: 278549
+      end: 280136
+    metadata:
+      pbId: 3011312
+      Img_name: 51-1-91b
+    page_info: null
+    imgnum: 182
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-91b.jpg
+  78e414292d2b42bbb5ee7dd6cba3749b:
+    span:
+      start: 280139
+      end: 281663
+    metadata:
+      pbId: 3011313
+      Img_name: 51-1-92a
+    page_info: null
+    imgnum: 183
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-92a.jpg
+  14f02d5606f84aedb08cb7982e05f196:
+    span:
+      start: 281666
+      end: 283198
+    metadata:
+      pbId: 3011314
+      Img_name: 51-1-92b
+    page_info: null
+    imgnum: 184
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-92b.jpg
+  cd8ffdbc44464149831b5abf0c5e6d91:
+    span:
+      start: 283201
+      end: 284701
+    metadata:
+      pbId: 3011315
+      Img_name: 51-1-93a
+    page_info: null
+    imgnum: 185
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-93a.jpg
+  6d161ba40b1b4a69bf3ae93a39ab9c81:
+    span:
+      start: 284704
+      end: 286115
+    metadata:
+      pbId: 3011316
+      Img_name: 51-1-93b
+    page_info: null
+    imgnum: 186
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-93b.jpg
+  ee65048e1e044fceba4a2fb386b5d518:
+    span:
+      start: 286118
+      end: 287509
+    metadata:
+      pbId: 3011317
+      Img_name: 51-1-94a
+    page_info: null
+    imgnum: 187
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-94a.jpg
+  b9e2dc9b370c45c9bfbe62f7f2ac45f5:
+    span:
+      start: 287512
+      end: 288975
+    metadata:
+      pbId: 3011318
+      Img_name: 51-1-94b
+    page_info: null
+    imgnum: 188
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-94b.jpg
+  7001e62a24874c26a8165e2ce2af0b8a:
+    span:
+      start: 288978
+      end: 290414
+    metadata:
+      pbId: 3011319
+      Img_name: 51-1-95a
+    page_info: null
+    imgnum: 189
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-95a.jpg
+  1ef8c973c56949d4ad99ea852df8cd9d:
+    span:
+      start: 290417
+      end: 291821
+    metadata:
+      pbId: 3011320
+      Img_name: 51-1-95b
+    page_info: null
+    imgnum: 190
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-95b.jpg
+  4a623c556dcc4ddfae13d5d7a7aecccc:
+    span:
+      start: 291824
+      end: 293213
+    metadata:
+      pbId: 3011321
+      Img_name: 51-1-96a
+    page_info: null
+    imgnum: 191
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-96a.jpg
+  0e05282597b240cfb581194d725cb072:
+    span:
+      start: 293216
+      end: 294688
+    metadata:
+      pbId: 3011322
+      Img_name: 51-1-96b
+    page_info: null
+    imgnum: 192
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-96b.jpg
+  1284efd74e90418d8dae59e73f2843b3:
+    span:
+      start: 294691
+      end: 296099
+    metadata:
+      pbId: 3011323
+      Img_name: 51-1-97a
+    page_info: null
+    imgnum: 193
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-97a.jpg
+  3ef27b541bdb433185443b733b7e9509:
+    span:
+      start: 296102
+      end: 297565
+    metadata:
+      pbId: 3011324
+      Img_name: 51-1-97b
+    page_info: null
+    imgnum: 194
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-97b.jpg
+  7823f144d3934b3fac113431fef6a240:
+    span:
+      start: 297568
+      end: 299056
+    metadata:
+      pbId: 3011325
+      Img_name: 51-1-98a
+    page_info: null
+    imgnum: 195
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-98a.jpg
+  12383878751242c88063bfa174ba33e9:
+    span:
+      start: 299059
+      end: 300466
+    metadata:
+      pbId: 3011326
+      Img_name: 51-1-98b
+    page_info: null
+    imgnum: 196
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-98b.jpg
+  ad6e0fda2d304340a2776e37e2812d8e:
+    span:
+      start: 300469
+      end: 302080
+    metadata:
+      pbId: 3011327
+      Img_name: 51-1-99a
+    page_info: null
+    imgnum: 197
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-99a.jpg
+  260d88b97a904d02959c2177d9defd9f:
+    span:
+      start: 302083
+      end: 303683
+    metadata:
+      pbId: 3011328
+      Img_name: 51-1-99b
+    page_info: null
+    imgnum: 198
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-99b.jpg
+  b1bfb03be06147608b2164bb30e1d029:
+    span:
+      start: 303686
+      end: 305282
+    metadata:
+      pbId: 3011329
+      Img_name: 51-1-100a
+    page_info: null
+    imgnum: 199
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-100a.jpg
+  0f0d42dac19641ebb33eea67b9035fe9:
+    span:
+      start: 305285
+      end: 306845
+    metadata:
+      pbId: 3011330
+      Img_name: 51-1-100b
+    page_info: null
+    imgnum: 200
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-100b.jpg
+  259530daeed646a7a2aaf803e6c81b6f:
+    span:
+      start: 306848
+      end: 308372
+    metadata:
+      pbId: 3011331
+      Img_name: 51-1-101a
+    page_info: null
+    imgnum: 201
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-101a.jpg
+  dcef111abce04653bac674fe0ffcc9b4:
+    span:
+      start: 308375
+      end: 309942
+    metadata:
+      pbId: 3011332
+      Img_name: 51-1-101b
+    page_info: null
+    imgnum: 202
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-101b.jpg
+  21047d8e4e844b198a265a0892f7f1cc:
+    span:
+      start: 309945
+      end: 311539
+    metadata:
+      pbId: 3011333
+      Img_name: 51-1-102a
+    page_info: null
+    imgnum: 203
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-102a.jpg
+  66685bc58ed44c8a8f010a1c7873a623:
+    span:
+      start: 311542
+      end: 313141
+    metadata:
+      pbId: 3011334
+      Img_name: 51-1-102b
+    page_info: null
+    imgnum: 204
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-102b.jpg
+  93d2a946dcd445529de9bcf611ca0f98:
+    span:
+      start: 313144
+      end: 314618
+    metadata:
+      pbId: 3011335
+      Img_name: 51-1-103a
+    page_info: null
+    imgnum: 205
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-103a.jpg
+  aac75298be3f421abb6adb26f24042b5:
+    span:
+      start: 314621
+      end: 316186
+    metadata:
+      pbId: 3011336
+      Img_name: 51-1-103b
+    page_info: null
+    imgnum: 206
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-103b.jpg
+  1f8673c87440468fa85671d80c1f4073:
+    span:
+      start: 316189
+      end: 317766
+    metadata:
+      pbId: 3011337
+      Img_name: 51-1-104a
+    page_info: null
+    imgnum: 207
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-104a.jpg
+  a79d6e2f86414ccd8b478fb7e17b30fe:
+    span:
+      start: 317769
+      end: 319339
+    metadata:
+      pbId: 3011338
+      Img_name: 51-1-104b
+    page_info: null
+    imgnum: 208
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-104b.jpg
+  d156347d79504486bb5ec0d362fb67cf:
+    span:
+      start: 319342
+      end: 320942
+    metadata:
+      pbId: 3011339
+      Img_name: 51-1-105a
+    page_info: null
+    imgnum: 209
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-105a.jpg
+  66f3dae0a1964d01a0e4d5d48add764c:
+    span:
+      start: 320945
+      end: 322486
+    metadata:
+      pbId: 3011340
+      Img_name: 51-1-105b
+    page_info: null
+    imgnum: 210
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-105b.jpg
+  7943f11a49684aa4860363bc79c9b7db:
+    span:
+      start: 322489
+      end: 324056
+    metadata:
+      pbId: 3011341
+      Img_name: 51-1-106a
+    page_info: null
+    imgnum: 211
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-106a.jpg
+  97a4d901fd3b4a079a285168af6e3666:
+    span:
+      start: 324059
+      end: 325591
+    metadata:
+      pbId: 3011342
+      Img_name: 51-1-106b
+    page_info: null
+    imgnum: 212
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-106b.jpg
+  b4eb76e0f55641a6aaae46a2ee244bc2:
+    span:
+      start: 325594
+      end: 327124
+    metadata:
+      pbId: 3011343
+      Img_name: 51-1-107a
+    page_info: null
+    imgnum: 213
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-107a.jpg
+  4ebef5eb86e94b54b1c694f542c98c4c:
+    span:
+      start: 327127
+      end: 328664
+    metadata:
+      pbId: 3011344
+      Img_name: 51-1-107b
+    page_info: null
+    imgnum: 214
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-107b.jpg
+  626a7a07e76b48efb64b6167092f7f28:
+    span:
+      start: 328667
+      end: 330237
+    metadata:
+      pbId: 3011345
+      Img_name: 51-1-108a
+    page_info: null
+    imgnum: 215
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-108a.jpg
+  6449c57f70b8477494f5ce08aa224ecf:
+    span:
+      start: 330240
+      end: 331843
+    metadata:
+      pbId: 3011346
+      Img_name: 51-1-108b
+    page_info: null
+    imgnum: 216
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-108b.jpg
+  d078fcf80c27479a9a4065d73c0ee536:
+    span:
+      start: 331846
+      end: 333446
+    metadata:
+      pbId: 3011347
+      Img_name: 51-1-109a
+    page_info: null
+    imgnum: 217
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-109a.jpg
+  0ab925995a134d16842ea673aed5897f:
+    span:
+      start: 333449
+      end: 335034
+    metadata:
+      pbId: 3011348
+      Img_name: 51-1-109b
+    page_info: null
+    imgnum: 218
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-109b.jpg
+  3738107a7b05485d9e20da43533db1db:
+    span:
+      start: 335037
+      end: 336562
+    metadata:
+      pbId: 3011349
+      Img_name: 51-1-110a
+    page_info: null
+    imgnum: 219
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-110a.jpg
+  2d497142d7c044e3b25c61ac286b5361:
+    span:
+      start: 336565
+      end: 338141
+    metadata:
+      pbId: 3011350
+      Img_name: 51-1-110b
+    page_info: null
+    imgnum: 220
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-110b.jpg
+  15a7d1a1c57144ff95dfa4810c2fd732:
+    span:
+      start: 338144
+      end: 339790
+    metadata:
+      pbId: 3011351
+      Img_name: 51-1-111a
+    page_info: null
+    imgnum: 221
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-111a.jpg
+  f11a8c2470a546ce8302db7d2b4bc624:
+    span:
+      start: 339793
+      end: 341500
+    metadata:
+      pbId: 3011352
+      Img_name: 51-1-111b
+    page_info: null
+    imgnum: 222
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-111b.jpg
+  0b9fee88a8c74b409d0325e5174dd6cf:
+    span:
+      start: 341503
+      end: 343064
+    metadata:
+      pbId: 3011353
+      Img_name: 51-1-112a
+    page_info: null
+    imgnum: 223
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-112a.jpg
+  17d4fc1b75ea4d4d8b3f8c5c8c4e7f2c:
+    span:
+      start: 343067
+      end: 344718
+    metadata:
+      pbId: 3011354
+      Img_name: 51-1-112b
+    page_info: null
+    imgnum: 224
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-112b.jpg
+  744fab322074452f85cb6595ee3a1c89:
+    span:
+      start: 344721
+      end: 346320
+    metadata:
+      pbId: 3011355
+      Img_name: 51-1-113a
+    page_info: null
+    imgnum: 225
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-113a.jpg
+  6e067c9f59ec4fbeb1585ef2de893b91:
+    span:
+      start: 346323
+      end: 347909
+    metadata:
+      pbId: 3011356
+      Img_name: 51-1-113b
+    page_info: null
+    imgnum: 226
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-113b.jpg
+  dab1e677a85f422e91b696064d0af5e5:
+    span:
+      start: 347912
+      end: 349386
+    metadata:
+      pbId: 3011357
+      Img_name: 51-1-114a
+    page_info: null
+    imgnum: 227
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-114a.jpg
+  6684f3a7791841aa9cfb6f16c1f09031:
+    span:
+      start: 349389
+      end: 350995
+    metadata:
+      pbId: 3011358
+      Img_name: 51-1-114b
+    page_info: null
+    imgnum: 228
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-114b.jpg
+  85f476c724de47bf9df04d43b9b6dde3:
+    span:
+      start: 350998
+      end: 352629
+    metadata:
+      pbId: 3011359
+      Img_name: 51-1-115a
+    page_info: null
+    imgnum: 229
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-115a.jpg
+  eb3020aa813b490b837a5e288eb817e3:
+    span:
+      start: 352632
+      end: 354407
+    metadata:
+      pbId: 3011360
+      Img_name: 51-1-115b
+    page_info: null
+    imgnum: 230
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-115b.jpg
+  635f52823d004f00b046a91536feb1cc:
+    span:
+      start: 354410
+      end: 356071
+    metadata:
+      pbId: 3011361
+      Img_name: 51-1-116a
+    page_info: null
+    imgnum: 231
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-116a.jpg
+  7e47e0779afb4a06b6639b1888842881:
+    span:
+      start: 356074
+      end: 357629
+    metadata:
+      pbId: 3011362
+      Img_name: 51-1-116b
+    page_info: null
+    imgnum: 232
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-116b.jpg
+  5fe20f3a12e74f20bda1008f2b9ce785:
+    span:
+      start: 357632
+      end: 359206
+    metadata:
+      pbId: 3011363
+      Img_name: 51-1-117a
+    page_info: null
+    imgnum: 233
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-117a.jpg
+  255bd26585b94451b5a1936b8305a487:
+    span:
+      start: 359209
+      end: 360624
+    metadata:
+      pbId: 3011364
+      Img_name: 51-1-117b
+    page_info: null
+    imgnum: 234
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-117b.jpg
+  6c8d4daa6bb64011a563a59a91f42d75:
+    span:
+      start: 360627
+      end: 362104
+    metadata:
+      pbId: 3011365
+      Img_name: 51-1-118a
+    page_info: null
+    imgnum: 235
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-118a.jpg
+  cf83876170bd4dcca003c2f8827904e7:
+    span:
+      start: 362107
+      end: 363662
+    metadata:
+      pbId: 3011366
+      Img_name: 51-1-118b
+    page_info: null
+    imgnum: 236
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-118b.jpg
+  536ce966caaf4dd9a32549d23ee49720:
+    span:
+      start: 363665
+      end: 365261
+    metadata:
+      pbId: 3011367
+      Img_name: 51-1-119a
+    page_info: null
+    imgnum: 237
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-119a.jpg
+  acc0fd66ec844999b4e1bc2513ea3572:
+    span:
+      start: 365264
+      end: 366781
+    metadata:
+      pbId: 3011368
+      Img_name: 51-1-119b
+    page_info: null
+    imgnum: 238
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-119b.jpg
+  69cc0777391040d7990ac864407c74e3:
+    span:
+      start: 366784
+      end: 368346
+    metadata:
+      pbId: 3011369
+      Img_name: 51-1-120a
+    page_info: null
+    imgnum: 239
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-120a.jpg
+  875432d2f4fb487c920d28e073f52ddb:
+    span:
+      start: 368349
+      end: 369907
+    metadata:
+      pbId: 3011370
+      Img_name: 51-1-120b
+    page_info: null
+    imgnum: 240
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-120b.jpg
+  4693e4c387bd41e8b16a090ff0ff78cd:
+    span:
+      start: 369910
+      end: 371573
+    metadata:
+      pbId: 3011371
+      Img_name: 51-1-121a
+    page_info: null
+    imgnum: 241
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-121a.jpg
+  95ef8a66b906486b90d8af668568e8c4:
+    span:
+      start: 371576
+      end: 373202
+    metadata:
+      pbId: 3011372
+      Img_name: 51-1-121b
+    page_info: null
+    imgnum: 242
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-121b.jpg
+  c89cfef4c65e45c487662c03c9f1aadd:
+    span:
+      start: 373205
+      end: 374823
+    metadata:
+      pbId: 3011373
+      Img_name: 51-1-122a
+    page_info: null
+    imgnum: 243
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-122a.jpg
+  0b5d618f65494038a5458ed6248a3e6b:
+    span:
+      start: 374826
+      end: 376509
+    metadata:
+      pbId: 3011374
+      Img_name: 51-1-122b
+    page_info: null
+    imgnum: 244
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-122b.jpg
+  ded3348687c742f1924de9898d5241f3:
+    span:
+      start: 376512
+      end: 378192
+    metadata:
+      pbId: 3011375
+      Img_name: 51-1-123a
+    page_info: null
+    imgnum: 245
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-123a.jpg
+  fd7697c8994e4623985ed960095bfbb7:
+    span:
+      start: 378195
+      end: 379838
+    metadata:
+      pbId: 3011376
+      Img_name: 51-1-123b
+    page_info: null
+    imgnum: 246
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-123b.jpg
+  b09ccf75eae346b1a7b9b19ce2779f69:
+    span:
+      start: 379841
+      end: 381340
+    metadata:
+      pbId: 3011377
+      Img_name: 51-1-124a
+    page_info: null
+    imgnum: 247
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-124a.jpg
+  c5981372f4d14d60909c2456b7800049:
+    span:
+      start: 381343
+      end: 382835
+    metadata:
+      pbId: 3011378
+      Img_name: 51-1-124b
+    page_info: null
+    imgnum: 248
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-124b.jpg
+  e2f020f14b404b1ea8a9e83e5611dd1f:
+    span:
+      start: 382838
+      end: 384371
+    metadata:
+      pbId: 3011379
+      Img_name: 51-1-125a
+    page_info: null
+    imgnum: 249
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-125a.jpg
+  9ac88585ba9148aab55c75d8174f2ede:
+    span:
+      start: 384374
+      end: 385820
+    metadata:
+      pbId: 3011380
+      Img_name: 51-1-125b
+    page_info: null
+    imgnum: 250
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-125b.jpg
+  f58bf4d83fce428f810ebb3502968282:
+    span:
+      start: 385823
+      end: 387368
+    metadata:
+      pbId: 3011381
+      Img_name: 51-1-126a
+    page_info: null
+    imgnum: 251
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-126a.jpg
+  ec51a8482fd54fe5851d4ca892e8dd71:
+    span:
+      start: 387371
+      end: 388918
+    metadata:
+      pbId: 3011382
+      Img_name: 51-1-126b
+    page_info: null
+    imgnum: 252
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-126b.jpg
+  f8320e6dfea348af92a8636c229b07e5:
+    span:
+      start: 388921
+      end: 390428
+    metadata:
+      pbId: 3011383
+      Img_name: 51-1-127a
+    page_info: null
+    imgnum: 253
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-127a.jpg
+  3824597cdd5f4f67b7578d8985cdbbe6:
+    span:
+      start: 390431
+      end: 391971
+    metadata:
+      pbId: 3011384
+      Img_name: 51-1-127b
+    page_info: null
+    imgnum: 254
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-127b.jpg
+  6c9d76e0f1cc4756bc997250ccbb3808:
+    span:
+      start: 391974
+      end: 393498
+    metadata:
+      pbId: 3011385
+      Img_name: 51-1-128a
+    page_info: null
+    imgnum: 255
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-128a.jpg
+  64fa71854f9149d2aeb5d6554e53254e:
+    span:
+      start: 393501
+      end: 395053
+    metadata:
+      pbId: 3011386
+      Img_name: 51-1-128b
+    page_info: null
+    imgnum: 256
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-128b.jpg
+  5918be3ead874c7e8da1758ce4c3fe78:
+    span:
+      start: 395056
+      end: 396561
+    metadata:
+      pbId: 3011387
+      Img_name: 51-1-129a
+    page_info: null
+    imgnum: 257
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-129a.jpg
+  14af334bceac4ff68c647ebcc51ee536:
+    span:
+      start: 396564
+      end: 398073
+    metadata:
+      pbId: 3011388
+      Img_name: 51-1-129b
+    page_info: null
+    imgnum: 258
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-129b.jpg
+  e85c92c44ffb424d80dfbd72f213c9b6:
+    span:
+      start: 398076
+      end: 399589
+    metadata:
+      pbId: 3011389
+      Img_name: 51-1-130a
+    page_info: null
+    imgnum: 259
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-130a.jpg
+  dab377cc863a4bf78e1ad0571887b215:
+    span:
+      start: 399592
+      end: 401175
+    metadata:
+      pbId: 3011390
+      Img_name: 51-1-130b
+    page_info: null
+    imgnum: 260
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-130b.jpg
+  b7364f50bcc3493394b2e9bc49cd369f:
+    span:
+      start: 401178
+      end: 402696
+    metadata:
+      pbId: 3011391
+      Img_name: 51-1-131a
+    page_info: null
+    imgnum: 261
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-131a.jpg
+  67aa20b7fb8445c8bde4787a4cba6f25:
+    span:
+      start: 402699
+      end: 404268
+    metadata:
+      pbId: 3011392
+      Img_name: 51-1-131b
+    page_info: null
+    imgnum: 262
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-131b.jpg
+  7e03b653a91c461696246e45d5650b83:
+    span:
+      start: 404271
+      end: 405832
+    metadata:
+      pbId: 3011393
+      Img_name: 51-1-132a
+    page_info: null
+    imgnum: 263
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-132a.jpg
+  cac2c085bd2348fab9cddc9635d06828:
+    span:
+      start: 405835
+      end: 407397
+    metadata:
+      pbId: 3011394
+      Img_name: 51-1-132b
+    page_info: null
+    imgnum: 264
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-132b.jpg
+  69da0309abc940e28fdaad8412d0f377:
+    span:
+      start: 407400
+      end: 408959
+    metadata:
+      pbId: 3011395
+      Img_name: 51-1-133a
+    page_info: null
+    imgnum: 265
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-133a.jpg
+  3ecf5bdb1a0345369b65538522cabd86:
+    span:
+      start: 408962
+      end: 410485
+    metadata:
+      pbId: 3011396
+      Img_name: 51-1-133b
+    page_info: null
+    imgnum: 266
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-133b.jpg
+  8ae3e42a330c45a29b87113089c90418:
+    span:
+      start: 410488
+      end: 412084
+    metadata:
+      pbId: 3011397
+      Img_name: 51-1-134a
+    page_info: null
+    imgnum: 267
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-134a.jpg
+  943426d27173469bbde1276c23d5afab:
+    span:
+      start: 412087
+      end: 413720
+    metadata:
+      pbId: 3011398
+      Img_name: 51-1-134b
+    page_info: null
+    imgnum: 268
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-134b.jpg
+  a3306c07f25c4aa7863655e39ccc5ebe:
+    span:
+      start: 413723
+      end: 415249
+    metadata:
+      pbId: 3011399
+      Img_name: 51-1-135a
+    page_info: null
+    imgnum: 269
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-135a.jpg
+  e201248a90e84210a5f28c7e6e0a0025:
+    span:
+      start: 415252
+      end: 416784
+    metadata:
+      pbId: 3011400
+      Img_name: 51-1-135b
+    page_info: null
+    imgnum: 270
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-135b.jpg
+  60c141c08d974cb08de6adcb2d09ae0e:
+    span:
+      start: 416787
+      end: 418255
+    metadata:
+      pbId: 3011401
+      Img_name: 51-1-136a
+    page_info: null
+    imgnum: 271
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-136a.jpg
+  8e5174ded6b043f895f00d51f8c05ca4:
+    span:
+      start: 418258
+      end: 419857
+    metadata:
+      pbId: 3011402
+      Img_name: 51-1-136b
+    page_info: null
+    imgnum: 272
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-136b.jpg
+  13c9839e83c840a0bd84aa7b1cf63432:
+    span:
+      start: 419860
+      end: 421428
+    metadata:
+      pbId: 3011403
+      Img_name: 51-1-137a
+    page_info: null
+    imgnum: 273
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-137a.jpg
+  a84a72055a774b329e118a1923f81fc8:
+    span:
+      start: 421431
+      end: 422980
+    metadata:
+      pbId: 3011404
+      Img_name: 51-1-137b
+    page_info: null
+    imgnum: 274
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-137b.jpg
+  0bec8e5b608848aba2829ef0faaa491d:
+    span:
+      start: 422983
+      end: 424447
+    metadata:
+      pbId: 3011405
+      Img_name: 51-1-138a
+    page_info: null
+    imgnum: 275
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-138a.jpg
+  1ac9d4582e0e4a3eaad32d7d21f59ed2:
+    span:
+      start: 424450
+      end: 425974
+    metadata:
+      pbId: 3011406
+      Img_name: 51-1-138b
+    page_info: null
+    imgnum: 276
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-138b.jpg
+  b60449e32bca4fc0b2f022feda101086:
+    span:
+      start: 425977
+      end: 427453
+    metadata:
+      pbId: 3011407
+      Img_name: 51-1-139a
+    page_info: null
+    imgnum: 277
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-139a.jpg
+  82458ad129df4da19fd15a0c282dabf2:
+    span:
+      start: 427456
+      end: 428968
+    metadata:
+      pbId: 3011408
+      Img_name: 51-1-139b
+    page_info: null
+    imgnum: 278
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-139b.jpg
+  b8888564750749548e45750167f4f61d:
+    span:
+      start: 428971
+      end: 430478
+    metadata:
+      pbId: 3011409
+      Img_name: 51-1-140a
+    page_info: null
+    imgnum: 279
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-140a.jpg
+  4b3625b840304bb5a8e5eeef7e169027:
+    span:
+      start: 430481
+      end: 432047
+    metadata:
+      pbId: 3011410
+      Img_name: 51-1-140b
+    page_info: null
+    imgnum: 280
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-140b.jpg
+  bf7546eb3b4b4bcdabd7db2b316e3a79:
+    span:
+      start: 432050
+      end: 433604
+    metadata:
+      pbId: 3011411
+      Img_name: 51-1-141a
+    page_info: null
+    imgnum: 281
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-141a.jpg
+  c3e51456c3744c57b3e1e85f8bfad0f3:
+    span:
+      start: 433607
+      end: 435169
+    metadata:
+      pbId: 3011412
+      Img_name: 51-1-141b
+    page_info: null
+    imgnum: 282
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-141b.jpg
+  157521ad117f4bdbb8f3cdeacf3486f7:
+    span:
+      start: 435172
+      end: 436731
+    metadata:
+      pbId: 3011413
+      Img_name: 51-1-142a
+    page_info: null
+    imgnum: 283
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-142a.jpg
+  97d321d7d8844a0e96b7b99528f0256a:
+    span:
+      start: 436734
+      end: 438255
+    metadata:
+      pbId: 3011414
+      Img_name: 51-1-142b
+    page_info: null
+    imgnum: 284
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-142b.jpg
+  855644b5615b4eca8c050c9f59654c45:
+    span:
+      start: 438258
+      end: 439815
+    metadata:
+      pbId: 3011415
+      Img_name: 51-1-143a
+    page_info: null
+    imgnum: 285
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-143a.jpg
+  af1e16d1cb7e4ddaa5106924b7b1aa59:
+    span:
+      start: 439818
+      end: 441329
+    metadata:
+      pbId: 3011416
+      Img_name: 51-1-143b
+    page_info: null
+    imgnum: 286
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-143b.jpg
+  ae7098d11d344b399611e79124de6925:
+    span:
+      start: 441332
+      end: 442868
+    metadata:
+      pbId: 3011417
+      Img_name: 51-1-144a
+    page_info: null
+    imgnum: 287
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-144a.jpg
+  7527d9c75f224571b8df2f156912b21f:
+    span:
+      start: 442871
+      end: 444458
+    metadata:
+      pbId: 3011418
+      Img_name: 51-1-144b
+    page_info: null
+    imgnum: 288
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-144b.jpg
+  fb16a3e04f584f2f8080e4cb9fa5a1f2:
+    span:
+      start: 444461
+      end: 446000
+    metadata:
+      pbId: 3011419
+      Img_name: 51-1-145a
+    page_info: null
+    imgnum: 289
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-145a.jpg
+  291edd932a1a496bae7a4d7b5447dc9e:
+    span:
+      start: 446003
+      end: 447539
+    metadata:
+      pbId: 3011420
+      Img_name: 51-1-145b
+    page_info: null
+    imgnum: 290
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-145b.jpg
+  b36ea23451854c929a9daa427078f415:
+    span:
+      start: 447542
+      end: 449020
+    metadata:
+      pbId: 3011421
+      Img_name: 51-1-146a
+    page_info: null
+    imgnum: 291
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-146a.jpg
+  6c3ca6a032374009818809bbdb78fdd9:
+    span:
+      start: 449023
+      end: 450526
+    metadata:
+      pbId: 3011422
+      Img_name: 51-1-146b
+    page_info: null
+    imgnum: 292
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-146b.jpg
+  424c9595eff04c3983dd0772021903bf:
+    span:
+      start: 450529
+      end: 452063
+    metadata:
+      pbId: 3011423
+      Img_name: 51-1-147a
+    page_info: null
+    imgnum: 293
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-147a.jpg
+  00904de7a5954cb7bef3d60b1dfd98c0:
+    span:
+      start: 452066
+      end: 453716
+    metadata:
+      pbId: 3011424
+      Img_name: 51-1-147b
+    page_info: null
+    imgnum: 294
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-147b.jpg
+  bf2d5d48a37f4c8ea01202c5e10bd61f:
+    span:
+      start: 453719
+      end: 455286
+    metadata:
+      pbId: 3011425
+      Img_name: 51-1-148a
+    page_info: null
+    imgnum: 295
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-148a.jpg
+  6c3fce661d46471d96854da9959a0edb:
+    span:
+      start: 455289
+      end: 456846
+    metadata:
+      pbId: 3011426
+      Img_name: 51-1-148b
+    page_info: null
+    imgnum: 296
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-148b.jpg
+  ef753f0d655841378228921fcf44bec6:
+    span:
+      start: 456849
+      end: 458376
+    metadata:
+      pbId: 3011427
+      Img_name: 51-1-149a
+    page_info: null
+    imgnum: 297
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-149a.jpg
+  d8a44a04e5ee4bd09a610506b48ea3b2:
+    span:
+      start: 458379
+      end: 459925
+    metadata:
+      pbId: 3011428
+      Img_name: 51-1-149b
+    page_info: null
+    imgnum: 298
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-149b.jpg
+  1430874055334ab68e21ae5f35dfd897:
+    span:
+      start: 459928
+      end: 461520
+    metadata:
+      pbId: 3011429
+      Img_name: 51-1-150a
+    page_info: null
+    imgnum: 299
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-150a.jpg
+  28d6f27a91244f7dab1acd76ac328630:
+    span:
+      start: 461523
+      end: 463130
+    metadata:
+      pbId: 3011430
+      Img_name: 51-1-150b
+    page_info: null
+    imgnum: 300
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-150b.jpg
+  83826a9d49b342b993d06ba1d0110d4c:
+    span:
+      start: 463133
+      end: 464673
+    metadata:
+      pbId: 3011431
+      Img_name: 51-1-151a
+    page_info: null
+    imgnum: 301
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-151a.jpg
+  efa423575245475ba92d2eedbba26038:
+    span:
+      start: 464676
+      end: 466232
+    metadata:
+      pbId: 3011432
+      Img_name: 51-1-151b
+    page_info: null
+    imgnum: 302
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-151b.jpg
+  be34581ef5054d178f76bdded3db1d2e:
+    span:
+      start: 466235
+      end: 467778
+    metadata:
+      pbId: 3011433
+      Img_name: 51-1-152a
+    page_info: null
+    imgnum: 303
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-152a.jpg
+  b59705ae85bc4cf9b7209f7f6b459b61:
+    span:
+      start: 467781
+      end: 469356
+    metadata:
+      pbId: 3011434
+      Img_name: 51-1-152b
+    page_info: null
+    imgnum: 304
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-152b.jpg
+  fbe3d5eba52d42e2affeba65c72c931a:
+    span:
+      start: 469359
+      end: 470962
+    metadata:
+      pbId: 3011435
+      Img_name: 51-1-153a
+    page_info: null
+    imgnum: 305
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-153a.jpg
+  f1e6718dffd84e018515be7eacb5f9a2:
+    span:
+      start: 470965
+      end: 472526
+    metadata:
+      pbId: 3011436
+      Img_name: 51-1-153b
+    page_info: null
+    imgnum: 306
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-153b.jpg
+  371bffce0c724b128a475bb207ae82c4:
+    span:
+      start: 472529
+      end: 474123
+    metadata:
+      pbId: 3011437
+      Img_name: 51-1-154a
+    page_info: null
+    imgnum: 307
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-154a.jpg
+  b6a2dec5a23e4366b5dad2a6057cfd47:
+    span:
+      start: 474126
+      end: 475740
+    metadata:
+      pbId: 3011438
+      Img_name: 51-1-154b
+    page_info: null
+    imgnum: 308
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-154b.jpg
+  96fab3d3178f4f2885020f802b7dab7d:
+    span:
+      start: 475743
+      end: 477408
+    metadata:
+      pbId: 3011439
+      Img_name: 51-1-155a
+    page_info: null
+    imgnum: 309
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-155a.jpg
+  cef49888309e454eb682976c201642f9:
+    span:
+      start: 477411
+      end: 479010
+    metadata:
+      pbId: 3011440
+      Img_name: 51-1-155b
+    page_info: null
+    imgnum: 310
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-155b.jpg
+  a5d278b66fcc43bdb5d3cc588f4caaa7:
+    span:
+      start: 479013
+      end: 480572
+    metadata:
+      pbId: 3011441
+      Img_name: 51-1-156a
+    page_info: null
+    imgnum: 311
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-156a.jpg
+  29543f49a59e4624bf647003ba67ecdf:
+    span:
+      start: 480575
+      end: 482186
+    metadata:
+      pbId: 3011442
+      Img_name: 51-1-156b
+    page_info: null
+    imgnum: 312
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-156b.jpg
+  918b5d1c29534ff2b2fde2bdb3398011:
+    span:
+      start: 482189
+      end: 483806
+    metadata:
+      pbId: 3011443
+      Img_name: 51-1-157a
+    page_info: null
+    imgnum: 313
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-157a.jpg
+  4cc2c6ac9e0f4d398bae7e964c8f5075:
+    span:
+      start: 483809
+      end: 485434
+    metadata:
+      pbId: 3011444
+      Img_name: 51-1-157b
+    page_info: null
+    imgnum: 314
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-157b.jpg
+  73e869c6bebe4158a4461571a8c73931:
+    span:
+      start: 485437
+      end: 487058
+    metadata:
+      pbId: 3011445
+      Img_name: 51-1-158a
+    page_info: null
+    imgnum: 315
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-158a.jpg
+  373477f8e9414dedb2fc0a0cfbf9827b:
+    span:
+      start: 487061
+      end: 488630
+    metadata:
+      pbId: 3011446
+      Img_name: 51-1-158b
+    page_info: null
+    imgnum: 316
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-158b.jpg
+  81bf12b3e8254a4eaa3943f89da97997:
+    span:
+      start: 488633
+      end: 490213
+    metadata:
+      pbId: 3011447
+      Img_name: 51-1-159a
+    page_info: null
+    imgnum: 317
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-159a.jpg
+  1a21c6a76d0e48ddacb6ad0503610a2f:
+    span:
+      start: 490216
+      end: 491852
+    metadata:
+      pbId: 3011448
+      Img_name: 51-1-159b
+    page_info: null
+    imgnum: 318
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-159b.jpg
+  7d08959446e14530a63e867d4d4676da:
+    span:
+      start: 491855
+      end: 493425
+    metadata:
+      pbId: 3011449
+      Img_name: 51-1-160a
+    page_info: null
+    imgnum: 319
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-160a.jpg
+  fd546578b30d484eb2d3d284f070f641:
+    span:
+      start: 493428
+      end: 494975
+    metadata:
+      pbId: 3011450
+      Img_name: 51-1-160b
+    page_info: null
+    imgnum: 320
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-160b.jpg
+  0f6a40f3517a4a4193d059d015289390:
+    span:
+      start: 494978
+      end: 496431
+    metadata:
+      pbId: 3011451
+      Img_name: 51-1-161a
+    page_info: null
+    imgnum: 321
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-161a.jpg
+  71d306412acd499a9945ebfa98428c09:
+    span:
+      start: 496434
+      end: 497978
+    metadata:
+      pbId: 3011452
+      Img_name: 51-1-161b
+    page_info: null
+    imgnum: 322
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-161b.jpg
+  1c8d327865314174a0e92780c7908fab:
+    span:
+      start: 497981
+      end: 499469
+    metadata:
+      pbId: 3011453
+      Img_name: 51-1-162a
+    page_info: null
+    imgnum: 323
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-162a.jpg
+  0d0f3d69fdba4382bade6a899237c6af:
+    span:
+      start: 499472
+      end: 500982
+    metadata:
+      pbId: 3011454
+      Img_name: 51-1-162b
+    page_info: null
+    imgnum: 324
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-162b.jpg
+  b4081242218c42de99576048e5b7233e:
+    span:
+      start: 500985
+      end: 502468
+    metadata:
+      pbId: 3011455
+      Img_name: 51-1-163a
+    page_info: null
+    imgnum: 325
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-163a.jpg
+  e7d85ee2e7d3403babfe727a09869915:
+    span:
+      start: 502471
+      end: 503964
+    metadata:
+      pbId: 3011456
+      Img_name: 51-1-163b
+    page_info: null
+    imgnum: 326
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-163b.jpg
+  adf5802618784e1a908e6b57e205435e:
+    span:
+      start: 503967
+      end: 505460
+    metadata:
+      pbId: 3011457
+      Img_name: 51-1-164a
+    page_info: null
+    imgnum: 327
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-164a.jpg
+  8e822e95037640eb959c0c1540053717:
+    span:
+      start: 505463
+      end: 507008
+    metadata:
+      pbId: 3011458
+      Img_name: 51-1-164b
+    page_info: null
+    imgnum: 328
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-164b.jpg
+  ffc482ce126e48939f61e3e6af84a7ed:
+    span:
+      start: 507011
+      end: 508493
+    metadata:
+      pbId: 3011459
+      Img_name: 51-1-165a
+    page_info: null
+    imgnum: 329
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-165a.jpg
+  0eda3b917cf04601bfec5bcab7fef196:
+    span:
+      start: 508496
+      end: 510025
+    metadata:
+      pbId: 3011460
+      Img_name: 51-1-165b
+    page_info: null
+    imgnum: 330
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-165b.jpg
+  917875695a234ca6a888c43b299700b0:
+    span:
+      start: 510028
+      end: 511445
+    metadata:
+      pbId: 3011461
+      Img_name: 51-1-166a
+    page_info: null
+    imgnum: 331
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-166a.jpg
+  cc2b3e18fc0d4bf1aae437fb3ca561e7:
+    span:
+      start: 511448
+      end: 512928
+    metadata:
+      pbId: 3011462
+      Img_name: 51-1-166b
+    page_info: null
+    imgnum: 332
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-166b.jpg
+  701b7058880b4fb8903fa8d769f6a309:
+    span:
+      start: 512931
+      end: 514380
+    metadata:
+      pbId: 3011463
+      Img_name: 51-1-167a
+    page_info: null
+    imgnum: 333
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-167a.jpg
+  56aac2f4b6324dc3b013988de95ab863:
+    span:
+      start: 514383
+      end: 515936
+    metadata:
+      pbId: 3011464
+      Img_name: 51-1-167b
+    page_info: null
+    imgnum: 334
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-167b.jpg
+  06f2dd3aed854bebb038b3e083bb4128:
+    span:
+      start: 515939
+      end: 517383
+    metadata:
+      pbId: 3011465
+      Img_name: 51-1-168a
+    page_info: null
+    imgnum: 335
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-168a.jpg
+  7ed34e70f4fd4e4eb8ed2173470f7230:
+    span:
+      start: 517386
+      end: 518940
+    metadata:
+      pbId: 3011466
+      Img_name: 51-1-168b
+    page_info: null
+    imgnum: 336
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-168b.jpg
+  5fa90ffcc31f4c1d8701cfe83360d273:
+    span:
+      start: 518943
+      end: 520413
+    metadata:
+      pbId: 3011467
+      Img_name: 51-1-169a
+    page_info: null
+    imgnum: 337
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-169a.jpg
+  4719a2d7911f478ab9a6fc16c859f31d:
+    span:
+      start: 520416
+      end: 521985
+    metadata:
+      pbId: 3011468
+      Img_name: 51-1-169b
+    page_info: null
+    imgnum: 338
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-169b.jpg
+  3ca79cf0daf64d4c8ead4230b905d58f:
+    span:
+      start: 521988
+      end: 523636
+    metadata:
+      pbId: 3011469
+      Img_name: 51-1-170a
+    page_info: null
+    imgnum: 339
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-170a.jpg
+  39343989a50a4267b3ae0da69ba61a79:
+    span:
+      start: 523639
+      end: 525238
+    metadata:
+      pbId: 3011470
+      Img_name: 51-1-170b
+    page_info: null
+    imgnum: 340
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-170b.jpg
+  fa480dac59a346e69bf059332cd7dc1c:
+    span:
+      start: 525241
+      end: 526761
+    metadata:
+      pbId: 3011471
+      Img_name: 51-1-171a
+    page_info: null
+    imgnum: 341
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-171a.jpg
+  bb55f849a0a2455f85e4cc3a26ff953c:
+    span:
+      start: 526764
+      end: 528260
+    metadata:
+      pbId: 3011472
+      Img_name: 51-1-171b
+    page_info: null
+    imgnum: 342
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-171b.jpg
+  5d35845a478e405c80709cdbd036d919:
+    span:
+      start: 528263
+      end: 529720
+    metadata:
+      pbId: 3011473
+      Img_name: 51-1-172a
+    page_info: null
+    imgnum: 343
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-172a.jpg
+  fc6486397e024e608bec87c6638d2161:
+    span:
+      start: 529723
+      end: 531239
+    metadata:
+      pbId: 3011474
+      Img_name: 51-1-172b
+    page_info: null
+    imgnum: 344
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-172b.jpg
+  78f9f7e2b1a54422bda3d71cc7b37d8a:
+    span:
+      start: 531242
+      end: 532748
+    metadata:
+      pbId: 3011475
+      Img_name: 51-1-173a
+    page_info: null
+    imgnum: 345
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-173a.jpg
+  833c8920993f485094ef9ca33dfecbc0:
+    span:
+      start: 532751
+      end: 534255
+    metadata:
+      pbId: 3011476
+      Img_name: 51-1-173b
+    page_info: null
+    imgnum: 346
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-173b.jpg
+  2db38c5ea5a84c05bf35a09de03c78f8:
+    span:
+      start: 534258
+      end: 535759
+    metadata:
+      pbId: 3011477
+      Img_name: 51-1-174a
+    page_info: null
+    imgnum: 347
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-174a.jpg
+  8f912ec1b08c41e8a9aa74a0fb03dbf5:
+    span:
+      start: 535762
+      end: 537333
+    metadata:
+      pbId: 3011478
+      Img_name: 51-1-174b
+    page_info: null
+    imgnum: 348
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-174b.jpg
+  26d34e717f3a47d39556ecd2fc623423:
+    span:
+      start: 537336
+      end: 538833
+    metadata:
+      pbId: 3011479
+      Img_name: 51-1-175a
+    page_info: null
+    imgnum: 349
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-175a.jpg
+  595d509e92154c569d5d12f994a759cf:
+    span:
+      start: 538836
+      end: 540299
+    metadata:
+      pbId: 3011480
+      Img_name: 51-1-175b
+    page_info: null
+    imgnum: 350
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-175b.jpg
+  6058205361524b3fb6cb0f3f3288f4cc:
+    span:
+      start: 540302
+      end: 541810
+    metadata:
+      pbId: 3011481
+      Img_name: 51-1-176a
+    page_info: null
+    imgnum: 351
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-176a.jpg
+  d23b59c5aea648fc8b1390a2c5f5765d:
+    span:
+      start: 541813
+      end: 543300
+    metadata:
+      pbId: 3011482
+      Img_name: 51-1-176b
+    page_info: null
+    imgnum: 352
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-176b.jpg
+  fc5d169309c142ffaee09bd33f289e01:
+    span:
+      start: 543303
+      end: 544822
+    metadata:
+      pbId: 3011483
+      Img_name: 51-1-177a
+    page_info: null
+    imgnum: 353
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-177a.jpg
+  235534f4989a41979129b4a71efd8faf:
+    span:
+      start: 544825
+      end: 546355
+    metadata:
+      pbId: 3011484
+      Img_name: 51-1-177b
+    page_info: null
+    imgnum: 354
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-177b.jpg
+  b149fbeef5b1413e96baade64eb39a70:
+    span:
+      start: 546358
+      end: 547766
+    metadata:
+      pbId: 3011485
+      Img_name: 51-1-178a
+    page_info: null
+    imgnum: 355
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-178a.jpg
+  128531993e5844a2b2786e5811eef076:
+    span:
+      start: 547769
+      end: 549240
+    metadata:
+      pbId: 3011486
+      Img_name: 51-1-178b
+    page_info: null
+    imgnum: 356
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-178b.jpg
+  6bcbce34fc804f49beef6cead31bc50a:
+    span:
+      start: 549243
+      end: 550741
+    metadata:
+      pbId: 3011487
+      Img_name: 51-1-179a
+    page_info: null
+    imgnum: 357
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-179a.jpg
+  9345290cc88c462c936fd10d7af84481:
+    span:
+      start: 550744
+      end: 552228
+    metadata:
+      pbId: 3011488
+      Img_name: 51-1-179b
+    page_info: null
+    imgnum: 358
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-179b.jpg
+  a104ee678ab04c29a70b6ece3c5b573f:
+    span:
+      start: 552231
+      end: 553738
+    metadata:
+      pbId: 3011489
+      Img_name: 51-1-180a
+    page_info: null
+    imgnum: 359
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-180a.jpg
+  bd67c238adb74bfa9ccf8384ad8e3531:
+    span:
+      start: 553741
+      end: 555276
+    metadata:
+      pbId: 3011490
+      Img_name: 51-1-180b
+    page_info: null
+    imgnum: 360
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-180b.jpg
+  083227cd2d0b46a88acd36bf7326054b:
+    span:
+      start: 555279
+      end: 556756
+    metadata:
+      pbId: 3011491
+      Img_name: 51-1-181a
+    page_info: null
+    imgnum: 361
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-181a.jpg
+  20759ee3af544df295408c0a7c2c0522:
+    span:
+      start: 556759
+      end: 558309
+    metadata:
+      pbId: 3011492
+      Img_name: 51-1-181b
+    page_info: null
+    imgnum: 362
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-181b.jpg
+  05c351be25ec4e8fafe2056a5523f2dc:
+    span:
+      start: 558312
+      end: 559837
+    metadata:
+      pbId: 3011493
+      Img_name: 51-1-182a
+    page_info: null
+    imgnum: 363
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-182a.jpg
+  5dbc34c3e9fd42f3a1765bbf0397a5c9:
+    span:
+      start: 559840
+      end: 561314
+    metadata:
+      pbId: 3011494
+      Img_name: 51-1-182b
+    page_info: null
+    imgnum: 364
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-182b.jpg
+  42dab1c2fe764518a5f4ff6d4ee2dcef:
+    span:
+      start: 561317
+      end: 562840
+    metadata:
+      pbId: 3011495
+      Img_name: 51-1-183a
+    page_info: null
+    imgnum: 365
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-183a.jpg
+  206b86e4330c4ab08e9e701bf28393b6:
+    span:
+      start: 562843
+      end: 564329
+    metadata:
+      pbId: 3011496
+      Img_name: 51-1-183b
+    page_info: null
+    imgnum: 366
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-183b.jpg
+  fd7e7741bc8249e7bfa5a84b0319d958:
+    span:
+      start: 564332
+      end: 565845
+    metadata:
+      pbId: 3011497
+      Img_name: 51-1-184a
+    page_info: null
+    imgnum: 367
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-184a.jpg
+  4f018ab89bfe4ddc8968a6b17f4d4cf2:
+    span:
+      start: 565848
+      end: 567334
+    metadata:
+      pbId: 3011498
+      Img_name: 51-1-184b
+    page_info: null
+    imgnum: 368
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-184b.jpg
+  3f999b6b3cb24ccdafcab609a6a7603e:
+    span:
+      start: 567337
+      end: 568848
+    metadata:
+      pbId: 3011499
+      Img_name: 51-1-185a
+    page_info: null
+    imgnum: 369
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-185a.jpg
+  1d219719487c452ebbab956b6ce9c025:
+    span:
+      start: 568851
+      end: 570390
+    metadata:
+      pbId: 3011500
+      Img_name: 51-1-185b
+    page_info: null
+    imgnum: 370
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-185b.jpg
+  a957a20312cf494cbaecb7448231fc14:
+    span:
+      start: 570393
+      end: 571829
+    metadata:
+      pbId: 3011501
+      Img_name: 51-1-186a
+    page_info: null
+    imgnum: 371
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-186a.jpg
+  e9e9130d58b84752af8b231fa8cfe8e0:
+    span:
+      start: 571832
+      end: 573300
+    metadata:
+      pbId: 3011502
+      Img_name: 51-1-186b
+    page_info: null
+    imgnum: 372
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-186b.jpg
+  d7bbbe3d8e0443dda3700d94ae8bf1af:
+    span:
+      start: 573303
+      end: 574799
+    metadata:
+      pbId: 3011503
+      Img_name: 51-1-187a
+    page_info: null
+    imgnum: 373
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-187a.jpg
+  d0452b10df3f40f5837589e8a15ef5bd:
+    span:
+      start: 574802
+      end: 576260
+    metadata:
+      pbId: 3011504
+      Img_name: 51-1-187b
+    page_info: null
+    imgnum: 374
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-187b.jpg
+  13bca66ebf814d7a9c802f2e2309c41f:
+    span:
+      start: 576263
+      end: 577728
+    metadata:
+      pbId: 3011505
+      Img_name: 51-1-188a
+    page_info: null
+    imgnum: 375
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-188a.jpg
+  1cdd236082a34fb494ff5198d8ff08e6:
+    span:
+      start: 577731
+      end: 579152
+    metadata:
+      pbId: 3011506
+      Img_name: 51-1-188b
+    page_info: null
+    imgnum: 376
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-188b.jpg
+  c46e95836fca4a889739cc67f4db2d4e:
+    span:
+      start: 579155
+      end: 580522
+    metadata:
+      pbId: 3011507
+      Img_name: 51-1-189a
+    page_info: null
+    imgnum: 377
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-189a.jpg
+  fc1af3c7e78f49c090abe935f537cac5:
+    span:
+      start: 580525
+      end: 581962
+    metadata:
+      pbId: 3011508
+      Img_name: 51-1-189b
+    page_info: null
+    imgnum: 378
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-189b.jpg
+  07f99bf8c8f1476ea72dfa4c21670d08:
+    span:
+      start: 581965
+      end: 583370
+    metadata:
+      pbId: 3011509
+      Img_name: 51-1-190a
+    page_info: null
+    imgnum: 379
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-190a.jpg
+  c03be83351fb47cd8c3f09533157dfee:
+    span:
+      start: 583373
+      end: 584859
+    metadata:
+      pbId: 3011510
+      Img_name: 51-1-190b
+    page_info: null
+    imgnum: 380
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-190b.jpg
+  d58671b21f2b450eb480bd6be5536ff4:
+    span:
+      start: 584862
+      end: 586310
+    metadata:
+      pbId: 3011511
+      Img_name: 51-1-191a
+    page_info: null
+    imgnum: 381
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-191a.jpg
+  a728f37181eb460c9706fc8f67b92bbc:
+    span:
+      start: 586313
+      end: 587751
+    metadata:
+      pbId: 3011512
+      Img_name: 51-1-191b
+    page_info: null
+    imgnum: 382
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-191b.jpg
+  a5ca2c30bde945d9a95383131ad79ac0:
+    span:
+      start: 587754
+      end: 589197
+    metadata:
+      pbId: 3011513
+      Img_name: 51-1-192a
+    page_info: null
+    imgnum: 383
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-192a.jpg
+  fd65f170ea2b4ffcb4de972d2f1fc29e:
+    span:
+      start: 589200
+      end: 590641
+    metadata:
+      pbId: 3011514
+      Img_name: 51-1-192b
+    page_info: null
+    imgnum: 384
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-192b.jpg
+  cb4fd87b37304a41b817f89d679ceda0:
+    span:
+      start: 590644
+      end: 592015
+    metadata:
+      pbId: 3011515
+      Img_name: 51-1-193a
+    page_info: null
+    imgnum: 385
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-193a.jpg
+  e87d2d34fa484577867f2fa48331e40c:
+    span:
+      start: 592018
+      end: 593436
+    metadata:
+      pbId: 3011516
+      Img_name: 51-1-193b
+    page_info: null
+    imgnum: 386
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-193b.jpg
+  7562d145975e488f8aa0a868fbb1daac:
+    span:
+      start: 593439
+      end: 594929
+    metadata:
+      pbId: 3011517
+      Img_name: 51-1-194a
+    page_info: null
+    imgnum: 387
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-194a.jpg
+  914d543c13be4fb7ac59c338ae2d5b5f:
+    span:
+      start: 594932
+      end: 596455
+    metadata:
+      pbId: 3011518
+      Img_name: 51-1-194b
+    page_info: null
+    imgnum: 388
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-194b.jpg
+  54fbc3bcb8194b39816c6d61cc823d36:
+    span:
+      start: 596458
+      end: 597931
+    metadata:
+      pbId: 3011519
+      Img_name: 51-1-195a
+    page_info: null
+    imgnum: 389
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-195a.jpg
+  fdc62a49ffc64466aa83f95eac1edf3f:
+    span:
+      start: 597934
+      end: 599387
+    metadata:
+      pbId: 3011520
+      Img_name: 51-1-195b
+    page_info: null
+    imgnum: 390
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-195b.jpg
+  6f8b371609d84fc4be33ca95dbf1ad9d:
+    span:
+      start: 599390
+      end: 600918
+    metadata:
+      pbId: 3011521
+      Img_name: 51-1-196a
+    page_info: null
+    imgnum: 391
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-196a.jpg
+  88b1247693704985982fe4a5684c76b0:
+    span:
+      start: 600921
+      end: 602518
+    metadata:
+      pbId: 3011522
+      Img_name: 51-1-196b
+    page_info: null
+    imgnum: 392
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-196b.jpg
+  99297c12560741078453424b21fc7a6f:
+    span:
+      start: 602521
+      end: 604087
+    metadata:
+      pbId: 3011523
+      Img_name: 51-1-197a
+    page_info: null
+    imgnum: 393
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-197a.jpg
+  eb2a0d12eb8b438bb3d5adec5cd3c41c:
+    span:
+      start: 604090
+      end: 605622
+    metadata:
+      pbId: 3011524
+      Img_name: 51-1-197b
+    page_info: null
+    imgnum: 394
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-197b.jpg
+  64d3b4c515ec44f58cb28d00ca73b08d:
+    span:
+      start: 605625
+      end: 607106
+    metadata:
+      pbId: 3011525
+      Img_name: 51-1-198a
+    page_info: null
+    imgnum: 395
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-198a.jpg
+  89828209d2ed47ab833218bc0e6c5942:
+    span:
+      start: 607109
+      end: 608577
+    metadata:
+      pbId: 3011526
+      Img_name: 51-1-198b
+    page_info: null
+    imgnum: 396
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-198b.jpg
+  9dc56b01cec74b8890d36ea9702fdd09:
+    span:
+      start: 608580
+      end: 610043
+    metadata:
+      pbId: 3011527
+      Img_name: 51-1-199a
+    page_info: null
+    imgnum: 397
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-199a.jpg
+  d7f6086977de4c52a374227aa9429d48:
+    span:
+      start: 610046
+      end: 611532
+    metadata:
+      pbId: 3011528
+      Img_name: 51-1-199b
+    page_info: null
+    imgnum: 398
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-199b.jpg
+  8da7000194f8415f9ba3cc635926d2f0:
+    span:
+      start: 611535
+      end: 612966
+    metadata:
+      pbId: 3011529
+      Img_name: 51-1-200a
+    page_info: null
+    imgnum: 399
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-200a.jpg
+  3bc31fefa84a4b489d1e763279651883:
+    span:
+      start: 612969
+      end: 614523
+    metadata:
+      pbId: 3011530
+      Img_name: 51-1-200b
+    page_info: null
+    imgnum: 400
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-200b.jpg
+  ce7086bdaa534e048a886f96bff77af4:
+    span:
+      start: 614526
+      end: 616094
+    metadata:
+      pbId: 3011531
+      Img_name: 51-1-201a
+    page_info: null
+    imgnum: 401
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-201a.jpg
+  b286d720770346ee9ea7b5582432d6b9:
+    span:
+      start: 616097
+      end: 617717
+    metadata:
+      pbId: 3011532
+      Img_name: 51-1-201b
+    page_info: null
+    imgnum: 402
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-201b.jpg
+  1f4e0c85ca014b888f596bf7bf0be4be:
+    span:
+      start: 617720
+      end: 619397
+    metadata:
+      pbId: 3011533
+      Img_name: 51-1-202a
+    page_info: null
+    imgnum: 403
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-202a.jpg
+  4a1d6472966e4ed9a587200f99fa067d:
+    span:
+      start: 619400
+      end: 621012
+    metadata:
+      pbId: 3011534
+      Img_name: 51-1-202b
+    page_info: null
+    imgnum: 404
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-202b.jpg
+  410b6d75d1a5489ab534d7ae222f9ef4:
+    span:
+      start: 621015
+      end: 622578
+    metadata:
+      pbId: 3011535
+      Img_name: 51-1-203a
+    page_info: null
+    imgnum: 405
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-203a.jpg
+  6b6c5f98ab6a4454a9d76ea3def9bbe1:
+    span:
+      start: 622581
+      end: 624074
+    metadata:
+      pbId: 3011536
+      Img_name: 51-1-203b
+    page_info: null
+    imgnum: 406
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-203b.jpg
+  2dae13b8637e48d38a5b6828203a0ae0:
+    span:
+      start: 624077
+      end: 625485
+    metadata:
+      pbId: 3011537
+      Img_name: 51-1-204a
+    page_info: null
+    imgnum: 407
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-204a.jpg
+  767035ae42974f1cb7adde1eb399ecc5:
+    span:
+      start: 625488
+      end: 626929
+    metadata:
+      pbId: 3011538
+      Img_name: 51-1-204b
+    page_info: null
+    imgnum: 408
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-204b.jpg
+  ebb2ad28252041e1823561406e05ca15:
+    span:
+      start: 626932
+      end: 628259
+    metadata:
+      pbId: 3011539
+      Img_name: 51-1-205a
+    page_info: null
+    imgnum: 409
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-205a.jpg
+  e5db31f6ef4841cfa5b5399c066e76db:
+    span:
+      start: 628262
+      end: 629625
+    metadata:
+      pbId: 3011540
+      Img_name: 51-1-205b
+    page_info: null
+    imgnum: 410
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-205b.jpg
+  600011faea744c95a37f37420e578f57:
+    span:
+      start: 629628
+      end: 631081
+    metadata:
+      pbId: 3011541
+      Img_name: 51-1-206a
+    page_info: null
+    imgnum: 411
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-206a.jpg
+  7a644e28db694607b449d4128adbefef:
+    span:
+      start: 631084
+      end: 632604
+    metadata:
+      pbId: 3011542
+      Img_name: 51-1-206b
+    page_info: null
+    imgnum: 412
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-206b.jpg
+  f5280742e326438c9f030dd0cf79c060:
+    span:
+      start: 632607
+      end: 634068
+    metadata:
+      pbId: 3011543
+      Img_name: 51-1-207a
+    page_info: null
+    imgnum: 413
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-207a.jpg
+  d491a9c669fa4c4893aae199148dee9b:
+    span:
+      start: 634071
+      end: 635515
+    metadata:
+      pbId: 3011544
+      Img_name: 51-1-207b
+    page_info: null
+    imgnum: 414
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-207b.jpg
+  3078ccc394aa494788c8ac4ccea72b18:
+    span:
+      start: 635518
+      end: 636978
+    metadata:
+      pbId: 3011545
+      Img_name: 51-1-208a
+    page_info: null
+    imgnum: 415
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-208a.jpg
+  821044f47f314a13b7a1ab248e58faa4:
+    span:
+      start: 636981
+      end: 638405
+    metadata:
+      pbId: 3011546
+      Img_name: 51-1-208b
+    page_info: null
+    imgnum: 416
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-208b.jpg
+  8e0e3e581e5e41e39c9aaa0e6601f97e:
+    span:
+      start: 638408
+      end: 639908
+    metadata:
+      pbId: 3011547
+      Img_name: 51-1-209a
+    page_info: null
+    imgnum: 417
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-209a.jpg
+  46f59fcd300d4d218b75b87955c41c37:
+    span:
+      start: 639911
+      end: 641334
+    metadata:
+      pbId: 3011548
+      Img_name: 51-1-209b
+    page_info: null
+    imgnum: 418
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-209b.jpg
+  253ef757c1694f4c832fab6579e33c84:
+    span:
+      start: 641337
+      end: 642778
+    metadata:
+      pbId: 3011549
+      Img_name: 51-1-210a
+    page_info: null
+    imgnum: 419
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-210a.jpg
+  97a0b7955f384f299c8dac0b8f10e168:
+    span:
+      start: 642781
+      end: 644164
+    metadata:
+      pbId: 3011550
+      Img_name: 51-1-210b
+    page_info: null
+    imgnum: 420
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-210b.jpg
+  703871ec19b04e2e8b3b25432a172b45:
+    span:
+      start: 644167
+      end: 645628
+    metadata:
+      pbId: 3011551
+      Img_name: 51-1-211a
+    page_info: null
+    imgnum: 421
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-211a.jpg
+  a78a09f9aa14418e81e53532cba3cc47:
+    span:
+      start: 645631
+      end: 647116
+    metadata:
+      pbId: 3011552
+      Img_name: 51-1-211b
+    page_info: null
+    imgnum: 422
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-211b.jpg
+  04de82c1cc2149b9953d50857cd4544c:
+    span:
+      start: 647119
+      end: 648567
+    metadata:
+      pbId: 3011553
+      Img_name: 51-1-212a
+    page_info: null
+    imgnum: 423
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-212a.jpg
+  c2d5ba1340344ba99fee5875847e097a:
+    span:
+      start: 648570
+      end: 650069
+    metadata:
+      pbId: 3011554
+      Img_name: 51-1-212b
+    page_info: null
+    imgnum: 424
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-212b.jpg
+  90fef017c5b24a1f9e3846ee6a15be94:
+    span:
+      start: 650072
+      end: 651608
+    metadata:
+      pbId: 3011555
+      Img_name: 51-1-213a
+    page_info: null
+    imgnum: 425
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-213a.jpg
+  ed46ede590984bbf8a0cf81267732b12:
+    span:
+      start: 651611
+      end: 653168
+    metadata:
+      pbId: 3011556
+      Img_name: 51-1-213b
+    page_info: null
+    imgnum: 426
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-213b.jpg
+  e6720b1d871c4017af64cd7f93f6480d:
+    span:
+      start: 653171
+      end: 654676
+    metadata:
+      pbId: 3011557
+      Img_name: 51-1-214a
+    page_info: null
+    imgnum: 427
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-214a.jpg
+  00e8a0eba48a4c5996d271ec260de40f:
+    span:
+      start: 654679
+      end: 656236
+    metadata:
+      pbId: 3011558
+      Img_name: 51-1-214b
+    page_info: null
+    imgnum: 428
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-214b.jpg
+  9f364f4e1f834993b6ce202d78e4db68:
+    span:
+      start: 656239
+      end: 657757
+    metadata:
+      pbId: 3011559
+      Img_name: 51-1-215a
+    page_info: null
+    imgnum: 429
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-215a.jpg
+  80dc0387cc9345ff8df564688f2a0b78:
+    span:
+      start: 657760
+      end: 659239
+    metadata:
+      pbId: 3011560
+      Img_name: 51-1-215b
+    page_info: null
+    imgnum: 430
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-215b.jpg
+  d81c6f385b2749bcbd7c9957d2c63de7:
+    span:
+      start: 659242
+      end: 660772
+    metadata:
+      pbId: 3011561
+      Img_name: 51-1-216a
+    page_info: null
+    imgnum: 431
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-216a.jpg
+  93b866203e59429893f825585856f285:
+    span:
+      start: 660775
+      end: 662336
+    metadata:
+      pbId: 3011562
+      Img_name: 51-1-216b
+    page_info: null
+    imgnum: 432
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-216b.jpg
+  840a210e69fd43bc97e9378f45b7c5a3:
+    span:
+      start: 662339
+      end: 663929
+    metadata:
+      pbId: 3011563
+      Img_name: 51-1-217a
+    page_info: null
+    imgnum: 433
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-217a.jpg
+  7bb29cbc1e464b15b14ab480b6acb298:
+    span:
+      start: 663932
+      end: 665610
+    metadata:
+      pbId: 3011564
+      Img_name: 51-1-217b
+    page_info: null
+    imgnum: 434
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-217b.jpg
+  04e77b83bd1b4f4d956557a77361415d:
+    span:
+      start: 665613
+      end: 667287
+    metadata:
+      pbId: 3011565
+      Img_name: 51-1-218a
+    page_info: null
+    imgnum: 435
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-218a.jpg
+  4e42fa4890da4b6e8f906835111a525f:
+    span:
+      start: 667290
+      end: 668915
+    metadata:
+      pbId: 3011566
+      Img_name: 51-1-218b
+    page_info: null
+    imgnum: 436
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-218b.jpg
+  f855d2709b5c436888fce0aee2222dd0:
+    span:
+      start: 668918
+      end: 670609
+    metadata:
+      pbId: 3011567
+      Img_name: 51-1-219a
+    page_info: null
+    imgnum: 437
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-219a.jpg
+  3929ca1ebe1b4a24bb66697c0cab5e0a:
+    span:
+      start: 670612
+      end: 672247
+    metadata:
+      pbId: 3011568
+      Img_name: 51-1-219b
+    page_info: null
+    imgnum: 438
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-219b.jpg
+  ab70e14b7b394fd4ab0477562566da99:
+    span:
+      start: 672250
+      end: 673919
+    metadata:
+      pbId: 3011569
+      Img_name: 51-1-220a
+    page_info: null
+    imgnum: 439
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-220a.jpg
+  8809579ffb0147cc966993d67ba792c4:
+    span:
+      start: 673922
+      end: 675549
+    metadata:
+      pbId: 3011570
+      Img_name: 51-1-220b
+    page_info: null
+    imgnum: 440
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-220b.jpg
+  7828c34bb111499a9e9343531a5be4a1:
+    span:
+      start: 675552
+      end: 677082
+    metadata:
+      pbId: 3011571
+      Img_name: 51-1-221a
+    page_info: null
+    imgnum: 441
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-221a.jpg
+  b3aa1ab108844042a615df6904ade649:
+    span:
+      start: 677085
+      end: 678704
+    metadata:
+      pbId: 3011572
+      Img_name: 51-1-221b
+    page_info: null
+    imgnum: 442
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-221b.jpg
+  18a923c3bb574a078095a774aa364751:
+    span:
+      start: 678707
+      end: 680437
+    metadata:
+      pbId: 3011573
+      Img_name: 51-1-222a
+    page_info: null
+    imgnum: 443
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-222a.jpg
+  fb1ba6637c7b4de0ad8db67d048ed2b7:
+    span:
+      start: 680440
+      end: 682085
+    metadata:
+      pbId: 3011574
+      Img_name: 51-1-222b
+    page_info: null
+    imgnum: 444
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-222b.jpg
+  95f368342351483f83b164406bafdfd9:
+    span:
+      start: 682088
+      end: 683704
+    metadata:
+      pbId: 3011575
+      Img_name: 51-1-223a
+    page_info: null
+    imgnum: 445
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-223a.jpg
+  84854ae44a494fe9a7d3e1c4d599128c:
+    span:
+      start: 683707
+      end: 685356
+    metadata:
+      pbId: 3011576
+      Img_name: 51-1-223b
+    page_info: null
+    imgnum: 446
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-223b.jpg
+  c9b23b33b2ea44fe93da81cd229f5ab8:
+    span:
+      start: 685359
+      end: 686995
+    metadata:
+      pbId: 3011577
+      Img_name: 51-1-224a
+    page_info: null
+    imgnum: 447
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-224a.jpg
+  86b3cbbf4faf4b6ab41dabb1f6872646:
+    span:
+      start: 686998
+      end: 688605
+    metadata:
+      pbId: 3011578
+      Img_name: 51-1-224b
+    page_info: null
+    imgnum: 448
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-224b.jpg
+  3120732c969948e2937e04c9d3ad5d3a:
+    span:
+      start: 688608
+      end: 690238
+    metadata:
+      pbId: 3011579
+      Img_name: 51-1-225a
+    page_info: null
+    imgnum: 449
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-225a.jpg
+  9018d9093a62447ca78988910eb18d82:
+    span:
+      start: 690241
+      end: 691851
+    metadata:
+      pbId: 3011580
+      Img_name: 51-1-225b
+    page_info: null
+    imgnum: 450
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-225b.jpg
+  4f41db341a9d4545aaab6380f2572d32:
+    span:
+      start: 691854
+      end: 693415
+    metadata:
+      pbId: 3011581
+      Img_name: 51-1-226a
+    page_info: null
+    imgnum: 451
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-226a.jpg
+  290e154b22434c12b8a73a5c203d4163:
+    span:
+      start: 693418
+      end: 695003
+    metadata:
+      pbId: 3011582
+      Img_name: 51-1-226b
+    page_info: null
+    imgnum: 452
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-226b.jpg
+  723d188176d34375986b4148502bfbfa:
+    span:
+      start: 695006
+      end: 696559
+    metadata:
+      pbId: 3011583
+      Img_name: 51-1-227a
+    page_info: null
+    imgnum: 453
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-227a.jpg
+  5a2124bf256d4d6db10a1980355e421f:
+    span:
+      start: 696562
+      end: 698107
+    metadata:
+      pbId: 3011584
+      Img_name: 51-1-227b
+    page_info: null
+    imgnum: 454
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-227b.jpg
+  ec681e246c2a4136893667e9c433cd60:
+    span:
+      start: 698110
+      end: 699710
+    metadata:
+      pbId: 3011585
+      Img_name: 51-1-228a
+    page_info: null
+    imgnum: 455
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-228a.jpg
+  2d58b25e0d464a46825e8977775c15f7:
+    span:
+      start: 699713
+      end: 701322
+    metadata:
+      pbId: 3011586
+      Img_name: 51-1-228b
+    page_info: null
+    imgnum: 456
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-228b.jpg
+  ea39740673c341cea7d64a357440c392:
+    span:
+      start: 701325
+      end: 702910
+    metadata:
+      pbId: 3011587
+      Img_name: 51-1-229a
+    page_info: null
+    imgnum: 457
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-229a.jpg
+  38cee8ee308a4b73ace500d474798c20:
+    span:
+      start: 702913
+      end: 704436
+    metadata:
+      pbId: 3011588
+      Img_name: 51-1-229b
+    page_info: null
+    imgnum: 458
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-229b.jpg
+  e2834edc84b04c3a8069c3ea9b3700c2:
+    span:
+      start: 704439
+      end: 706063
+    metadata:
+      pbId: 3011589
+      Img_name: 51-1-230a
+    page_info: null
+    imgnum: 459
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-230a.jpg
+  58bf7d4ed5a6499a9bda3db35e30e755:
+    span:
+      start: 706066
+      end: 707605
+    metadata:
+      pbId: 3011590
+      Img_name: 51-1-230b
+    page_info: null
+    imgnum: 460
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-230b.jpg
+  fb35c4a17ea14408a0874d1acd0f8dff:
+    span:
+      start: 707608
+      end: 709128
+    metadata:
+      pbId: 3011591
+      Img_name: 51-1-231a
+    page_info: null
+    imgnum: 461
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-231a.jpg
+  1aad8bfce36b428a956452b0ce4054fc:
+    span:
+      start: 709131
+      end: 710781
+    metadata:
+      pbId: 3011592
+      Img_name: 51-1-231b
+    page_info: null
+    imgnum: 462
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-231b.jpg
+  c6eaf716af354018a9180ce6fa349453:
+    span:
+      start: 710784
+      end: 712456
+    metadata:
+      pbId: 3011593
+      Img_name: 51-1-232a
+    page_info: null
+    imgnum: 463
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-232a.jpg
+  f9a8ba39455147dbb1faba65f2c88856:
+    span:
+      start: 712459
+      end: 714085
+    metadata:
+      pbId: 3011594
+      Img_name: 51-1-232b
+    page_info: null
+    imgnum: 464
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-232b.jpg
+  b38629ba978040938076a65c58b09cc5:
+    span:
+      start: 714088
+      end: 715661
+    metadata:
+      pbId: 3011595
+      Img_name: 51-1-233a
+    page_info: null
+    imgnum: 465
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-233a.jpg
+  02f083970f7a4705bffaa52a0420e5d9:
+    span:
+      start: 715664
+      end: 717213
+    metadata:
+      pbId: 3011596
+      Img_name: 51-1-233b
+    page_info: null
+    imgnum: 466
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-233b.jpg
+  66e10941095f4f15b431cabc3c11d314:
+    span:
+      start: 717216
+      end: 718723
+    metadata:
+      pbId: 3011597
+      Img_name: 51-1-234a
+    page_info: null
+    imgnum: 467
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-234a.jpg
+  d5eb9356ec1d4a50b4d5d075bb834734:
+    span:
+      start: 718726
+      end: 720238
+    metadata:
+      pbId: 3011598
+      Img_name: 51-1-234b
+    page_info: null
+    imgnum: 468
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-234b.jpg
+  cb5358a20ec745d48fe688fda70a9b45:
+    span:
+      start: 720241
+      end: 721850
+    metadata:
+      pbId: 3011599
+      Img_name: 51-1-235a
+    page_info: null
+    imgnum: 469
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-235a.jpg
+  24932e7c868f46368d06815269259cac:
+    span:
+      start: 721853
+      end: 723369
+    metadata:
+      pbId: 3011600
+      Img_name: 51-1-235b
+    page_info: null
+    imgnum: 470
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-235b.jpg
+  88f4baf1b23a4614bc9a80ee8cf50948:
+    span:
+      start: 723372
+      end: 724872
+    metadata:
+      pbId: 3011601
+      Img_name: 51-1-236a
+    page_info: null
+    imgnum: 471
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-236a.jpg
+  8478bccbcea040858887f5bec7869f1e:
+    span:
+      start: 724875
+      end: 726380
+    metadata:
+      pbId: 3011602
+      Img_name: 51-1-236b
+    page_info: null
+    imgnum: 472
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-236b.jpg
+  95088521e8ff443390e0163150b524d5:
+    span:
+      start: 726383
+      end: 727866
+    metadata:
+      pbId: 3011603
+      Img_name: 51-1-237a
+    page_info: null
+    imgnum: 473
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-237a.jpg
+  303920c918c3479f8fade5e227b50967:
+    span:
+      start: 727869
+      end: 729400
+    metadata:
+      pbId: 3011604
+      Img_name: 51-1-237b
+    page_info: null
+    imgnum: 474
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-237b.jpg
+  0b94c2494caf4baa818e728fd30702b5:
+    span:
+      start: 729403
+      end: 730936
+    metadata:
+      pbId: 3011605
+      Img_name: 51-1-238a
+    page_info: null
+    imgnum: 475
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-238a.jpg
+  e85271209db147ea968495c7d52a626c:
+    span:
+      start: 730939
+      end: 732462
+    metadata:
+      pbId: 3011606
+      Img_name: 51-1-238b
+    page_info: null
+    imgnum: 476
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-238b.jpg
+  907592987d004293bc7efd86131b3d54:
+    span:
+      start: 732465
+      end: 734017
+    metadata:
+      pbId: 3011607
+      Img_name: 51-1-239a
+    page_info: null
+    imgnum: 477
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-239a.jpg
+  b785f32f64ff4bdcb2c7bd8afa9e56cb:
+    span:
+      start: 734020
+      end: 735585
+    metadata:
+      pbId: 3011608
+      Img_name: 51-1-239b
+    page_info: null
+    imgnum: 478
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-239b.jpg
+  740640c07fa14973ac1d85f81f3f264a:
+    span:
+      start: 735588
+      end: 737069
+    metadata:
+      pbId: 3011609
+      Img_name: 51-1-240a
+    page_info: null
+    imgnum: 479
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-240a.jpg
+  fdeb51ac4a2e40be897ce76c5ee8cb73:
+    span:
+      start: 737072
+      end: 738614
+    metadata:
+      pbId: 3011610
+      Img_name: 51-1-240b
+    page_info: null
+    imgnum: 480
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-240b.jpg
+  655b9e7aa8c5402799474ea7133bf8ee:
+    span:
+      start: 738617
+      end: 740040
+    metadata:
+      pbId: 3011611
+      Img_name: 51-1-241a
+    page_info: null
+    imgnum: 481
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-241a.jpg
+  479c8b24566a45d6be88f8fe18b596ef:
+    span:
+      start: 740043
+      end: 741513
+    metadata:
+      pbId: 3011612
+      Img_name: 51-1-241b
+    page_info: null
+    imgnum: 482
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-241b.jpg
+  90b04a4cab694243bc8c7cc3787614bd:
+    span:
+      start: 741516
+      end: 742907
+    metadata:
+      pbId: 3011613
+      Img_name: 51-1-242a
+    page_info: null
+    imgnum: 483
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-242a.jpg
+  3d012a2e6ada4188900800e2c82868c6:
+    span:
+      start: 742910
+      end: 744352
+    metadata:
+      pbId: 3011614
+      Img_name: 51-1-242b
+    page_info: null
+    imgnum: 484
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-242b.jpg
+  c845e3ea5d79498ba97a92d208da8615:
+    span:
+      start: 744355
+      end: 745836
+    metadata:
+      pbId: 3011615
+      Img_name: 51-1-243a
+    page_info: null
+    imgnum: 485
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-243a.jpg
+  8bdf87e01fc2416db192a39598f74d0b:
+    span:
+      start: 745839
+      end: 747342
+    metadata:
+      pbId: 3011616
+      Img_name: 51-1-243b
+    page_info: null
+    imgnum: 486
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-243b.jpg
+  fc3eb645d235463ebaeda259f9e22b64:
+    span:
+      start: 747345
+      end: 748974
+    metadata:
+      pbId: 3011617
+      Img_name: 51-1-244a
+    page_info: null
+    imgnum: 487
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-244a.jpg
+  1d7d5ecbdcfa4736a70e24d0b7d4ceec:
+    span:
+      start: 748977
+      end: 750550
+    metadata:
+      pbId: 3011618
+      Img_name: 51-1-244b
+    page_info: null
+    imgnum: 488
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-244b.jpg
+  dd452e26f97642fc9fa01bc8e0c7d24b:
+    span:
+      start: 750553
+      end: 752110
+    metadata:
+      pbId: 3011619
+      Img_name: 51-1-245a
+    page_info: null
+    imgnum: 489
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-245a.jpg
+  89a3b100428e4e58a6babad511215fa4:
+    span:
+      start: 752113
+      end: 753695
+    metadata:
+      pbId: 3011620
+      Img_name: 51-1-245b
+    page_info: null
+    imgnum: 490
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-245b.jpg
+  49199f78770447f480d04e7f9bed2873:
+    span:
+      start: 753698
+      end: 755205
+    metadata:
+      pbId: 3011621
+      Img_name: 51-1-246a
+    page_info: null
+    imgnum: 491
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-246a.jpg
+  4eb708adfe3547069121881f8b8e27db:
+    span:
+      start: 755208
+      end: 756841
+    metadata:
+      pbId: 3011622
+      Img_name: 51-1-246b
+    page_info: null
+    imgnum: 492
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-246b.jpg
+  c50e929618cc4b5492ffac49f43be04b:
+    span:
+      start: 756844
+      end: 758442
+    metadata:
+      pbId: 3011623
+      Img_name: 51-1-247a
+    page_info: null
+    imgnum: 493
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-247a.jpg
+  dccb517b06284b14a092db9d024d604e:
+    span:
+      start: 758445
+      end: 759902
+    metadata:
+      pbId: 3011624
+      Img_name: 51-1-247b
+    page_info: null
+    imgnum: 494
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-247b.jpg
+  b8f43013bbee4871951769ef3ff9b868:
+    span:
+      start: 759905
+      end: 761368
+    metadata:
+      pbId: 3011625
+      Img_name: 51-1-248a
+    page_info: null
+    imgnum: 495
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-248a.jpg
+  25a91aef5df14539a3fa5972287ede60:
+    span:
+      start: 761371
+      end: 762867
+    metadata:
+      pbId: 3011626
+      Img_name: 51-1-248b
+    page_info: null
+    imgnum: 496
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-248b.jpg
+  eb8c4b4013004ba5a2ec62f3fd1e7fae:
+    span:
+      start: 762870
+      end: 764344
+    metadata:
+      pbId: 3011627
+      Img_name: 51-1-249a
+    page_info: null
+    imgnum: 497
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-249a.jpg
+  eaf91b0d7b584cf3a9a789764b266a1b:
+    span:
+      start: 764347
+      end: 765877
+    metadata:
+      pbId: 3011628
+      Img_name: 51-1-249b
+    page_info: null
+    imgnum: 498
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-249b.jpg
+  0ba3facf2cbc49ac89bd2c47d1f5c025:
+    span:
+      start: 765880
+      end: 767340
+    metadata:
+      pbId: 3011629
+      Img_name: 51-1-250a
+    page_info: null
+    imgnum: 499
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-250a.jpg
+  b4abddee426e4646b2103c2d7bd7c544:
+    span:
+      start: 767343
+      end: 768835
+    metadata:
+      pbId: 3011630
+      Img_name: 51-1-250b
+    page_info: null
+    imgnum: 500
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-250b.jpg
+  83e1ade6dea84c46807f5dc56d7c2977:
+    span:
+      start: 768838
+      end: 770288
+    metadata:
+      pbId: 3011631
+      Img_name: 51-1-251a
+    page_info: null
+    imgnum: 501
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-251a.jpg
+  1ec6d640b5da4d86bf743d80ad7143a0:
+    span:
+      start: 770291
+      end: 771726
+    metadata:
+      pbId: 3011632
+      Img_name: 51-1-251b
+    page_info: null
+    imgnum: 502
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-251b.jpg
+  8e3e6e5416f2425aad4295b825f7ba8f:
+    span:
+      start: 771729
+      end: 773219
+    metadata:
+      pbId: 3011633
+      Img_name: 51-1-252a
+    page_info: null
+    imgnum: 503
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-252a.jpg
+  6c7579bb82b54c88a283dcbd9bd01c4e:
+    span:
+      start: 773222
+      end: 774679
+    metadata:
+      pbId: 3011634
+      Img_name: 51-1-252b
+    page_info: null
+    imgnum: 504
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-252b.jpg
+  beb21a82eacf4f96a4d7af28a53bb5e9:
+    span:
+      start: 774682
+      end: 776210
+    metadata:
+      pbId: 3011635
+      Img_name: 51-1-253a
+    page_info: null
+    imgnum: 505
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-253a.jpg
+  ab835d0a2c7c4a1f81034c0b327fc8db:
+    span:
+      start: 776213
+      end: 777762
+    metadata:
+      pbId: 3011636
+      Img_name: 51-1-253b
+    page_info: null
+    imgnum: 506
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-253b.jpg
+  db874ecc4a334879a5907fa7dea91808:
+    span:
+      start: 777765
+      end: 779204
+    metadata:
+      pbId: 3011637
+      Img_name: 51-1-254a
+    page_info: null
+    imgnum: 507
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-254a.jpg
+  8aaded48d5a1471aa634ca4967727754:
+    span:
+      start: 779207
+      end: 780689
+    metadata:
+      pbId: 3011638
+      Img_name: 51-1-254b
+    page_info: null
+    imgnum: 508
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-254b.jpg
+  cc32dda1692045d3868084e67e1d5c73:
+    span:
+      start: 780692
+      end: 782162
+    metadata:
+      pbId: 3011639
+      Img_name: 51-1-255a
+    page_info: null
+    imgnum: 509
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-255a.jpg
+  87ac492acedd482698ee68b70dea593f:
+    span:
+      start: 782165
+      end: 783644
+    metadata:
+      pbId: 3011640
+      Img_name: 51-1-255b
+    page_info: null
+    imgnum: 510
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-255b.jpg
+  28d43f6ccfef4a9ba8ea2cc4f0a525b0:
+    span:
+      start: 783647
+      end: 785187
+    metadata:
+      pbId: 3011641
+      Img_name: 51-1-256a
+    page_info: null
+    imgnum: 511
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-256a.jpg
+  81a94a8067be485d95c2fabe22e3835e:
+    span:
+      start: 785190
+      end: 786678
+    metadata:
+      pbId: 3011642
+      Img_name: 51-1-256b
+    page_info: null
+    imgnum: 512
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-256b.jpg
+  811bcec59ba442fb806a6d31971e4541:
+    span:
+      start: 786681
+      end: 788054
+    metadata:
+      pbId: 3011643
+      Img_name: 51-1-257a
+    page_info: null
+    imgnum: 513
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-257a.jpg
+  59a801c20a9145c9b99d2a26378ea025:
+    span:
+      start: 788057
+      end: 789427
+    metadata:
+      pbId: 3011644
+      Img_name: 51-1-257b
+    page_info: null
+    imgnum: 514
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-257b.jpg
+  21e198a1faa44384a63972a079279cc9:
+    span:
+      start: 789430
+      end: 790847
+    metadata:
+      pbId: 3011645
+      Img_name: 51-1-258a
+    page_info: null
+    imgnum: 515
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-258a.jpg
+  805c44640cf6417896ccb0d805a25faf:
+    span:
+      start: 790850
+      end: 792258
+    metadata:
+      pbId: 3011646
+      Img_name: 51-1-258b
+    page_info: null
+    imgnum: 516
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-258b.jpg
+  d9575c065dd14ed1895e222a9f4520b2:
+    span:
+      start: 792261
+      end: 793747
+    metadata:
+      pbId: 3011647
+      Img_name: 51-1-259a
+    page_info: null
+    imgnum: 517
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-259a.jpg
+  bd29d3555556496f9ba4181e2c0b6dab:
+    span:
+      start: 793750
+      end: 795210
+    metadata:
+      pbId: 3011648
+      Img_name: 51-1-259b
+    page_info: null
+    imgnum: 518
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-259b.jpg
+  58056c0c75dc45b78f0140e684c75985:
+    span:
+      start: 795213
+      end: 796594
+    metadata:
+      pbId: 3011649
+      Img_name: 51-1-260a
+    page_info: null
+    imgnum: 519
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-260a.jpg
+  686221048db046cd983fd241c9a72e71:
+    span:
+      start: 796597
+      end: 798023
+    metadata:
+      pbId: 3011650
+      Img_name: 51-1-260b
+    page_info: null
+    imgnum: 520
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-260b.jpg
+  dc2f5241b4784cf18630af0ef69ce1d8:
+    span:
+      start: 798026
+      end: 799480
+    metadata:
+      pbId: 3011651
+      Img_name: 51-1-261a
+    page_info: null
+    imgnum: 521
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-261a.jpg
+  bdf64ec4b5ff4cb3898f3934e37c76dd:
+    span:
+      start: 799483
+      end: 800922
+    metadata:
+      pbId: 3011652
+      Img_name: 51-1-261b
+    page_info: null
+    imgnum: 522
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-261b.jpg
+  4a0167b5372f4aaf82b6601d3e580170:
+    span:
+      start: 800925
+      end: 802348
+    metadata:
+      pbId: 3011653
+      Img_name: 51-1-262a
+    page_info: null
+    imgnum: 523
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-262a.jpg
+  b89dc46b7bca46c6a294a762ce0d9550:
+    span:
+      start: 802351
+      end: 803839
+    metadata:
+      pbId: 3011654
+      Img_name: 51-1-262b
+    page_info: null
+    imgnum: 524
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-262b.jpg
+  380cba029a184a84b62e270322ebb5d9:
+    span:
+      start: 803842
+      end: 805322
+    metadata:
+      pbId: 3011655
+      Img_name: 51-1-263a
+    page_info: null
+    imgnum: 525
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-263a.jpg
+  a58face19da54c75b90a147ebf7aec4f:
+    span:
+      start: 805325
+      end: 806877
+    metadata:
+      pbId: 3011656
+      Img_name: 51-1-263b
+    page_info: null
+    imgnum: 526
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-263b.jpg
+  d1e557987aac4192aa7e043c2c69f10c:
+    span:
+      start: 806880
+      end: 808478
+    metadata:
+      pbId: 3011657
+      Img_name: 51-1-264a
+    page_info: null
+    imgnum: 527
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-264a.jpg
+  b82a1467508447ef9d91dfbccbe076a2:
+    span:
+      start: 808481
+      end: 810054
+    metadata:
+      pbId: 3011658
+      Img_name: 51-1-264b
+    page_info: null
+    imgnum: 528
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-264b.jpg
+  7f3d2af8338c43db95e5c5b0ac04a973:
+    span:
+      start: 810057
+      end: 811534
+    metadata:
+      pbId: 3011659
+      Img_name: 51-1-265a
+    page_info: null
+    imgnum: 529
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-265a.jpg
+  8ef9dd0b2f6c4ff988715856e48f18d7:
+    span:
+      start: 811537
+      end: 813109
+    metadata:
+      pbId: 3011660
+      Img_name: 51-1-265b
+    page_info: null
+    imgnum: 530
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-265b.jpg
+  9e958f6dcd9e4822b4c32732917dfbb9:
+    span:
+      start: 813112
+      end: 814596
+    metadata:
+      pbId: 3011661
+      Img_name: 51-1-266a
+    page_info: null
+    imgnum: 531
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-266a.jpg
+  3e082208dcbe48fcab39712e5577d753:
+    span:
+      start: 814599
+      end: 816095
+    metadata:
+      pbId: 3011662
+      Img_name: 51-1-266b
+    page_info: null
+    imgnum: 532
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-266b.jpg
+  4f6582a096e54e18a94674ffddc17eda:
+    span:
+      start: 816098
+      end: 817623
+    metadata:
+      pbId: 3011663
+      Img_name: 51-1-267a
+    page_info: null
+    imgnum: 533
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-267a.jpg
+  5a757785000243cc85ec4244dd707ab9:
+    span:
+      start: 817626
+      end: 819183
+    metadata:
+      pbId: 3011664
+      Img_name: 51-1-267b
+    page_info: null
+    imgnum: 534
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-267b.jpg
+  6deedd2cf1aa4bdf8e1f1b7b16159c33:
+    span:
+      start: 819186
+      end: 820769
+    metadata:
+      pbId: 3011665
+      Img_name: 51-1-268a
+    page_info: null
+    imgnum: 535
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-268a.jpg
+  cce4547929bf481facba8bd6100610e0:
+    span:
+      start: 820772
+      end: 822244
+    metadata:
+      pbId: 3011666
+      Img_name: 51-1-268b
+    page_info: null
+    imgnum: 536
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-268b.jpg
+  ee9c9c2384194cbc8ce47de263f1f639:
+    span:
+      start: 822247
+      end: 823738
+    metadata:
+      pbId: 3011667
+      Img_name: 51-1-269a
+    page_info: null
+    imgnum: 537
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-269a.jpg
+  be2492d875714fcaa6cbb37e7784e485:
+    span:
+      start: 823741
+      end: 825250
+    metadata:
+      pbId: 3011668
+      Img_name: 51-1-269b
+    page_info: null
+    imgnum: 538
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-269b.jpg
+  bf5412f60d824845b2b95074e38bdbf4:
+    span:
+      start: 825253
+      end: 826727
+    metadata:
+      pbId: 3011669
+      Img_name: 51-1-270a
+    page_info: null
+    imgnum: 539
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-270a.jpg
+  9e8e51ecee9440459ca46fe8d590a8c1:
+    span:
+      start: 826730
+      end: 828157
+    metadata:
+      pbId: 3011670
+      Img_name: 51-1-270b
+    page_info: null
+    imgnum: 540
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-270b.jpg
+  309d85663fc84164a2240d6c718aebdd:
+    span:
+      start: 828160
+      end: 829559
+    metadata:
+      pbId: 3011671
+      Img_name: 51-1-271a
+    page_info: null
+    imgnum: 541
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-271a.jpg
+  cabe1494a30f4610aabb408d89f5b682:
+    span:
+      start: 829562
+      end: 831071
+    metadata:
+      pbId: 3011672
+      Img_name: 51-1-271b
+    page_info: null
+    imgnum: 542
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-271b.jpg
+  3d697dfd782140d493b43564e033d32f:
+    span:
+      start: 831074
+      end: 832583
+    metadata:
+      pbId: 3011673
+      Img_name: 51-1-272a
+    page_info: null
+    imgnum: 543
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-272a.jpg
+  eab7df45c62a448183f21958f4a07be6:
+    span:
+      start: 832586
+      end: 834104
+    metadata:
+      pbId: 3011674
+      Img_name: 51-1-272b
+    page_info: null
+    imgnum: 544
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-272b.jpg
+  93724c11ab5f4da88bb68f53c7b807d8:
+    span:
+      start: 834107
+      end: 835576
+    metadata:
+      pbId: 3011675
+      Img_name: 51-1-273a
+    page_info: null
+    imgnum: 545
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-273a.jpg
+  8ee8c40a6cc54b43b6480c5388ba8df4:
+    span:
+      start: 835579
+      end: 837084
+    metadata:
+      pbId: 3011676
+      Img_name: 51-1-273b
+    page_info: null
+    imgnum: 546
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-273b.jpg
+  6b1da2f3b53a41b4949501c8515e0eb7:
+    span:
+      start: 837087
+      end: 838538
+    metadata:
+      pbId: 3011677
+      Img_name: 51-1-274a
+    page_info: null
+    imgnum: 547
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-274a.jpg
+  d582ee7908bd4028a2ef8d629fe7b817:
+    span:
+      start: 838541
+      end: 840056
+    metadata:
+      pbId: 3011678
+      Img_name: 51-1-274b
+    page_info: null
+    imgnum: 548
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-274b.jpg
+  2b82e631af454c53b8dac292db3a8502:
+    span:
+      start: 840059
+      end: 841499
+    metadata:
+      pbId: 3011679
+      Img_name: 51-1-275a
+    page_info: null
+    imgnum: 549
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-275a.jpg
+  eed18dedb3f7465c840d5dc58f150224:
+    span:
+      start: 841502
+      end: 842980
+    metadata:
+      pbId: 3011680
+      Img_name: 51-1-275b
+    page_info: null
+    imgnum: 550
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-275b.jpg
+  63d6ff59ee0542aabb88c0d8d6f60c6f:
+    span:
+      start: 842983
+      end: 844472
+    metadata:
+      pbId: 3011681
+      Img_name: 51-1-276a
+    page_info: null
+    imgnum: 551
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-276a.jpg
+  baa30161a1854ae29bffc4b2819cc64c:
+    span:
+      start: 844475
+      end: 846011
+    metadata:
+      pbId: 3011682
+      Img_name: 51-1-276b
+    page_info: null
+    imgnum: 552
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-276b.jpg
+  e9d2bb662f764d2dadf4beed83c03a3b:
+    span:
+      start: 846014
+      end: 847544
+    metadata:
+      pbId: 3011683
+      Img_name: 51-1-277a
+    page_info: null
+    imgnum: 553
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-277a.jpg
+  4e18c04392c1408f883a95abc79fafcf:
+    span:
+      start: 847547
+      end: 849012
+    metadata:
+      pbId: 3011684
+      Img_name: 51-1-277b
+    page_info: null
+    imgnum: 554
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-277b.jpg
+  b84f7a4b650f46f2b770a3c507186f8d:
+    span:
+      start: 849015
+      end: 850522
+    metadata:
+      pbId: 3011685
+      Img_name: 51-1-278a
+    page_info: null
+    imgnum: 555
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-278a.jpg
+  2565b56c11da4699a928a8209333ee5e:
+    span:
+      start: 850525
+      end: 851947
+    metadata:
+      pbId: 3011686
+      Img_name: 51-1-278b
+    page_info: null
+    imgnum: 556
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-278b.jpg
+  05fc35f34775487abfca480600823aea:
+    span:
+      start: 851950
+      end: 853409
+    metadata:
+      pbId: 3011687
+      Img_name: 51-1-279a
+    page_info: null
+    imgnum: 557
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-279a.jpg
+  55b94fec9b994878aba444e37f900015:
+    span:
+      start: 853412
+      end: 854845
+    metadata:
+      pbId: 3011688
+      Img_name: 51-1-279b
+    page_info: null
+    imgnum: 558
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-279b.jpg
+  c37bca9f6c274baf951ca95324dbaf34:
+    span:
+      start: 854848
+      end: 856308
+    metadata:
+      pbId: 3011689
+      Img_name: 51-1-280a
+    page_info: null
+    imgnum: 559
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-280a.jpg
+  c5e61909eb114d87855df10d535d1798:
+    span:
+      start: 856311
+      end: 857776
+    metadata:
+      pbId: 3011690
+      Img_name: 51-1-280b
+    page_info: null
+    imgnum: 560
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-280b.jpg
+  5b4a3b31710e4f6580b0f3f782777c4e:
+    span:
+      start: 857779
+      end: 859284
+    metadata:
+      pbId: 3011691
+      Img_name: 51-1-281a
+    page_info: null
+    imgnum: 561
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-281a.jpg
+  eeff447a75c8431d96c765e74fb45d44:
+    span:
+      start: 859287
+      end: 860848
+    metadata:
+      pbId: 3011692
+      Img_name: 51-1-281b
+    page_info: null
+    imgnum: 562
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-281b.jpg
+  b9a8a8b2b2e548eb835220ab0463b2cf:
+    span:
+      start: 860851
+      end: 862396
+    metadata:
+      pbId: 3011693
+      Img_name: 51-1-282a
+    page_info: null
+    imgnum: 563
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-282a.jpg
+  10812c6b776e4ad5a94078a42030be5a:
+    span:
+      start: 862399
+      end: 864037
+    metadata:
+      pbId: 3011694
+      Img_name: 51-1-282b
+    page_info: null
+    imgnum: 564
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-282b.jpg
+  3ebc0699bce44548878536c1e03d9143:
+    span:
+      start: 864040
+      end: 865513
+    metadata:
+      pbId: 3011695
+      Img_name: 51-1-283a
+    page_info: null
+    imgnum: 565
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-283a.jpg
+  39b2bbe65dd24d0fbd56553dd4afe174:
+    span:
+      start: 865516
+      end: 867145
+    metadata:
+      pbId: 3011696
+      Img_name: 51-1-283b
+    page_info: null
+    imgnum: 566
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-283b.jpg
+  916758b1fe034a6db6ed0c6531afd8dd:
+    span:
+      start: 867148
+      end: 868679
+    metadata:
+      pbId: 3011697
+      Img_name: 51-1-284a
+    page_info: null
+    imgnum: 567
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-284a.jpg
+  9fb0458caae6483798e1a850c550d50a:
+    span:
+      start: 868682
+      end: 870299
+    metadata:
+      pbId: 3011698
+      Img_name: 51-1-284b
+    page_info: null
+    imgnum: 568
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-284b.jpg
+  afce1f5d408d45a2b55ac33be2c26f55:
+    span:
+      start: 870302
+      end: 871850
+    metadata:
+      pbId: 3011699
+      Img_name: 51-1-285a
+    page_info: null
+    imgnum: 569
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-285a.jpg
+  50e76d858aef42c7bb91edc69a3ef817:
+    span:
+      start: 871853
+      end: 873415
+    metadata:
+      pbId: 3011700
+      Img_name: 51-1-285b
+    page_info: null
+    imgnum: 570
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-285b.jpg
+  f01358420aa4419e981e25f2c8930853:
+    span:
+      start: 873418
+      end: 874897
+    metadata:
+      pbId: 3011701
+      Img_name: 51-1-286a
+    page_info: null
+    imgnum: 571
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-286a.jpg
+  a5b805c8ea484b03b2f4920fbb997752:
+    span:
+      start: 874900
+      end: 876367
+    metadata:
+      pbId: 3011702
+      Img_name: 51-1-286b
+    page_info: null
+    imgnum: 572
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-286b.jpg
+  701eaf3a4b5a41bb8964933367913c37:
+    span:
+      start: 876370
+      end: 877857
+    metadata:
+      pbId: 3011703
+      Img_name: 51-1-287a
+    page_info: null
+    imgnum: 573
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-287a.jpg
+  115f7afc0d954282ada7453f62eab827:
+    span:
+      start: 877860
+      end: 879257
+    metadata:
+      pbId: 3011704
+      Img_name: 51-1-287b
+    page_info: null
+    imgnum: 574
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-287b.jpg
+  e681d1a9103c4be299e457e8b4f2d779:
+    span:
+      start: 879260
+      end: 880620
+    metadata:
+      pbId: 3011705
+      Img_name: 51-1-288a
+    page_info: null
+    imgnum: 575
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-288a.jpg
+  2e3261e3c4d4401d891aea2b90d77750:
+    span:
+      start: 880623
+      end: 882015
+    metadata:
+      pbId: 3011706
+      Img_name: 51-1-288b
+    page_info: null
+    imgnum: 576
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-288b.jpg
+  6790993f5a8d463b8f8226b52de45287:
+    span:
+      start: 882018
+      end: 883420
+    metadata:
+      pbId: 3011707
+      Img_name: 51-1-289a
+    page_info: null
+    imgnum: 577
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-289a.jpg
+  a81245bca0f04fc0b0f357d69d532581:
+    span:
+      start: 883423
+      end: 884808
+    metadata:
+      pbId: 3011708
+      Img_name: 51-1-289b
+    page_info: null
+    imgnum: 578
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-289b.jpg
+  eeba9b4e04f24a88a6701a987edce819:
+    span:
+      start: 884811
+      end: 886197
+    metadata:
+      pbId: 3011709
+      Img_name: 51-1-290a
+    page_info: null
+    imgnum: 579
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-290a.jpg
+  39912d1c31ba44aebfb6d0c3bd1e2102:
+    span:
+      start: 886200
+      end: 887587
+    metadata:
+      pbId: 3011710
+      Img_name: 51-1-290b
+    page_info: null
+    imgnum: 580
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-290b.jpg
+  99ad44584df54cb68ef2033e521e5ba5:
+    span:
+      start: 887590
+      end: 888985
+    metadata:
+      pbId: 3011711
+      Img_name: 51-1-291a
+    page_info: null
+    imgnum: 581
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-291a.jpg
+  7b039ac5dadf4cd39a74773262a72e5c:
+    span:
+      start: 888988
+      end: 890306
+    metadata:
+      pbId: 3011712
+      Img_name: 51-1-291b
+    page_info: null
+    imgnum: 582
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-291b.jpg
+  05770b7abab34ad3bff07393dd3fc3b8:
+    span:
+      start: 890309
+      end: 891728
+    metadata:
+      pbId: 3011713
+      Img_name: 51-1-292a
+    page_info: null
+    imgnum: 583
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-292a.jpg
+  5f14b0eeb9384babb48e8cc0a0680831:
+    span:
+      start: 891731
+      end: 893234
+    metadata:
+      pbId: 3011714
+      Img_name: 51-1-292b
+    page_info: null
+    imgnum: 584
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-292b.jpg
+  aae3149d70d149e4bc1583fa5c297153:
+    span:
+      start: 893237
+      end: 894658
+    metadata:
+      pbId: 3011715
+      Img_name: 51-1-293a
+    page_info: null
+    imgnum: 585
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-293a.jpg
+  483945ec0391402d91ac78f827cb5f45:
+    span:
+      start: 894661
+      end: 896244
+    metadata:
+      pbId: 3011716
+      Img_name: 51-1-293b
+    page_info: null
+    imgnum: 586
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-293b.jpg
+  67ef4bf7ed214b1fbaec16b9aec5e1a9:
+    span:
+      start: 896247
+      end: 897844
+    metadata:
+      pbId: 3011717
+      Img_name: 51-1-294a
+    page_info: null
+    imgnum: 587
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-294a.jpg
+  b661308e320a42c992a7dc6102a2b544:
+    span:
+      start: 897847
+      end: 899420
+    metadata:
+      pbId: 3011718
+      Img_name: 51-1-294b
+    page_info: null
+    imgnum: 588
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-294b.jpg
+  d89e693a4f044a22b9985403e0438067:
+    span:
+      start: 899423
+      end: 901017
+    metadata:
+      pbId: 3011719
+      Img_name: 51-1-295a
+    page_info: null
+    imgnum: 589
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-295a.jpg
+  43b293dd7ea14236a9c77c11d7fbf430:
+    span:
+      start: 901020
+      end: 902631
+    metadata:
+      pbId: 3011720
+      Img_name: 51-1-295b
+    page_info: null
+    imgnum: 590
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-295b.jpg
+  f763966564a54e4e8fa0f6afd74f8f4c:
+    span:
+      start: 902634
+      end: 904281
+    metadata:
+      pbId: 3011721
+      Img_name: 51-1-296a
+    page_info: null
+    imgnum: 591
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-296a.jpg
+  7e4e47f3d8614e52b5ec0c8f6a5d334f:
+    span:
+      start: 904284
+      end: 905917
+    metadata:
+      pbId: 3011722
+      Img_name: 51-1-296b
+    page_info: null
+    imgnum: 592
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-296b.jpg
+  75bc34d9b28d4d2cbd589123394d0b50:
+    span:
+      start: 905920
+      end: 907524
+    metadata:
+      pbId: 3011723
+      Img_name: 51-1-297a
+    page_info: null
+    imgnum: 593
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-297a.jpg
+  8e375aa61af94eb8be4ad2c09633d048:
+    span:
+      start: 907527
+      end: 909256
+    metadata:
+      pbId: 3011724
+      Img_name: 51-1-297b
+    page_info: null
+    imgnum: 594
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-297b.jpg
+  3845e8bbf21c4a01b2ecfa276a1621c4:
+    span:
+      start: 909259
+      end: 910868
+    metadata:
+      pbId: 3011725
+      Img_name: 51-1-298a
+    page_info: null
+    imgnum: 595
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-298a.jpg
+  b36c4585fc8049ccb80b5b1ed7e21d44:
+    span:
+      start: 910871
+      end: 910871
+    metadata:
+      pbId: 3011726
+      Img_name: 51-1-298b
+    page_info: null
+    imgnum: 596
+    reference: https://files.dharma-treasure.org/degekangyur/degekangyur51-1/51-1-298b.jpg
